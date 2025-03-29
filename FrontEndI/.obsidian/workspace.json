@@ -1,20 +1,24 @@
 {
   "main": {
-    "id": "c3bda8a5bc6f49a0",
+    "id": "426e963bf945ed5d",
     "type": "split",
     "children": [
       {
-        "id": "c9a0a0c1ab4463d6",
+        "id": "e53d5825d4b4a463",
         "type": "tabs",
         "children": [
           {
-            "id": "53567df981524a15",
+            "id": "fe7634dc2b512601",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "🟩 NodeJs/1️⃣ Fundamentos do Node js.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "1️⃣ Fundamentos do Node js"
             }
           }
         ]
@@ -23,28 +27,28 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "c883c67c61da750f",
+    "id": "5ba764688d4c4512",
     "type": "split",
     "children": [
       {
-        "id": "2000adc08ac022bf",
+        "id": "e69cea894601dc20",
         "type": "tabs",
         "children": [
           {
-            "id": "891d37c8ff02e519",
+            "id": "f59c897ae622b68a",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Explorador de arquivos"
             }
           },
           {
-            "id": "710dd6f8ceccf606",
+            "id": "b2ce9e7a2593fcf1",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -61,7 +65,7 @@
             }
           },
           {
-            "id": "82dd58e209a0fd7e",
+            "id": "b9fa5748b6da9587",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -77,46 +81,63 @@
     "width": 300
   },
   "right": {
-    "id": "8e4d3780b26b35cd",
+    "id": "540752595780d070",
     "type": "split",
     "children": [
       {
-        "id": "1fba05c974138409",
+        "id": "90b6edcbbaa00929",
         "type": "tabs",
         "children": [
           {
-            "id": "dac93764f6b3afe6",
+            "id": "38169557652d9a32",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "🟩 NodeJs/1️⃣ Fundamentos do Node js.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de 1️⃣ Fundamentos do Node js"
+            }
+          },
+          {
+            "id": "191d38301f08e2d9",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "collapseAll": false,
+                "file": "React Router/7️⃣ Projeto Pratico.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Links inversos para 7️⃣ Projeto Pratico"
             }
           },
           {
-            "id": "2c2d25c174c5424a",
+            "id": "c45d1da6f99ebd75",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "React Router/7️⃣ Projeto Pratico.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Links de saída"
+              "title": "Links de saída para 7️⃣ Projeto Pratico"
             }
           },
           {
-            "id": "1f2a76246c05e458",
+            "id": "66b8b433d17b8f15",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -129,27 +150,12 @@
               "icon": "lucide-tags",
               "title": "Tags"
             }
-          },
-          {
-            "id": "2504cf5acb459890",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Sumário"
-            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 254
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -161,6 +167,34 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "53567df981524a15",
-  "lastOpenFiles": []
+  "active": "fe7634dc2b512601",
+  "lastOpenFiles": [
+    "🟩 NodeJs/🟩 NodeJs.md",
+    "⚛️ ReactJs/⚛️ ReactJs.md",
+    "🌐 NextJs/🌐 NextJs.md",
+    "🟦 TypeScript/🟦 TypeScript.md",
+    "🟨 JavaScript/🟨 JavaScript.md",
+    "🟩 NodeJs/7️⃣ Projeto Pratico.md",
+    "🟩 NodeJs/6️⃣ APIs RESTful.md",
+    "🟩 NodeJs/5️⃣ Autenticacao e Autorizacao.md",
+    "🟩 NodeJs/4️⃣ Banco de Dados.md",
+    "🟩 NodeJs/3️⃣ Servidor HTTP.md",
+    "🟩 NodeJs/2️⃣ Modulos e NPM.md",
+    "🟩 NodeJs/1️⃣ Fundamentos do Node js.md",
+    "React Router/6️⃣ Transicoes e Animacoes.md",
+    "React Router/5️⃣ Rotas Dinamicas e Lazy Loading.md",
+    "React Router/4️⃣ Protecao de Rotas.md",
+    "React Router/3️⃣ Rotas Aninhadas e Parametros.md",
+    "React Router/2️⃣ Rotas Basicas e Navegacao.md",
+    "React Router/1️⃣ Fundamentos do React Router.md",
+    "React Router/🏠 React Router.md",
+    "React Hooks/1️⃣ Fundamentos dos Hooks.md",
+    "Styled Components/🏠 Styled Components.md",
+    "React Webpack/🏠 React Webpack.md",
+    "React Redux/🏠 React Redux.md",
+    "React Jest/🏠 React Jest.md",
+    "Contex API/🏠 Contex API.md",
+    "React Hooks/🏠 React Hooks.md",
+    "Contex API/Sem título"
+  ]
 }
