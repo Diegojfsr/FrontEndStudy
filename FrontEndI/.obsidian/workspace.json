@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "⚛️ ReactJs/⚛️ ReactJs.md",
+                "file": "🟩 NodeJs/🟩 NodeJs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "⚛️ ReactJs"
+              "title": "🟩 NodeJs"
             }
           }
         ]
@@ -94,13 +94,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "⚛️ ReactJs/⚛️ ReactJs.md",
+                "file": "🟩 NodeJs/🟩 NodeJs.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de ⚛️ ReactJs"
+              "title": "Sumário de 🟩 NodeJs"
             }
           },
           {
@@ -169,17 +169,17 @@
   },
   "active": "d3a74784316871d5",
   "lastOpenFiles": [
+    "🟩 NodeJs/1️⃣ Fundamentos do Node js.md",
+    "🟩 NodeJs/🟩 NodeJs.md",
+    "⚛️ ReactJs/⚛️ ReactJs.md",
     "🟩 NodeJs/6️⃣ APIs RESTful.md",
     "🟩 NodeJs/7️⃣ Projeto Pratico.md",
     "🟩 NodeJs/5️⃣ Autenticacao e Autorizacao.md",
     "🟩 NodeJs/4️⃣ Banco de Dados.md",
     "🟩 NodeJs/3️⃣ Servidor HTTP.md",
     "🟩 NodeJs/2️⃣ Modulos e NPM.md",
-    "🟩 NodeJs/1️⃣ Fundamentos do Node js.md",
-    "🟩 NodeJs/🟩 NodeJs.md",
     "🟦 TypeScript/🟦 TypeScript.md",
     "🌐 NextJs/🌐 NextJs.md",
-    "⚛️ ReactJs/⚛️ ReactJs.md",
     "🟨 JavaScript/🟨 JavaScript.md",
     "React Router/6️⃣ Transicoes e Animacoes.md",
     "React Router/5️⃣ Rotas Dinamicas e Lazy Loading.md",
