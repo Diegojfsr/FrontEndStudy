@@ -11,10 +11,14 @@
             "id": "4e4601558a8d0eca",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Contex API/🏠 Contex API.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "🏠 Contex API"
             }
           }
         ]
@@ -74,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 260
+    "width": 257
   },
   "right": {
     "id": "540752595780d070",
@@ -90,12 +94,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Contex API/🏠 Contex API.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário"
+              "title": "Sumário de 🏠 Contex API"
             }
           },
           {
@@ -150,7 +155,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 254
+    "width": 254,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -162,23 +168,27 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "f59c897ae622b68a",
+  "active": "4e4601558a8d0eca",
   "lastOpenFiles": [
+    "Styled Components/🏠 Styled Components.md",
+    "React Webpack/🏠 React Webpack.md",
+    "React Router/🏠 React Router.md",
+    "React Redux/🏠 React Redux.md",
+    "React Jest/🏠 React Jest.md",
+    "React Hooks/🏠 React Hooks.md",
+    "Contex API/🏠 Contex API.md",
+    "FrontEndStudyMap/IntensivaoFrontEndI/React Router/7️⃣ Projeto Pratico.md",
+    "FrontEndStudyMap/IntensivaoFrontEndI/React Router",
+    "FrontEndStudyMap/IntensivaoFrontEndI",
+    "FrontEndStudyMap",
     "React Router/4️⃣ Protecao de Rotas.md",
     "React Router/3️⃣ Rotas Aninhadas e Parametros.md",
     "React Router/2️⃣ Rotas Basicas e Navegacao.md",
     "React Router/1️⃣ Fundamentos do React Router.md",
-    "React Router/🏠 React Router.md",
     "React Router/7️⃣ Projeto Pratico.md",
     "React Router/6️⃣ Transicoes e Animacoes.md",
     "React Router/5️⃣ Rotas Dinamicas e Lazy Loading.md",
     "React Hooks/1️⃣ Fundamentos dos Hooks.md",
-    "Styled Components/🏠 Styled Components.md",
-    "React Webpack/🏠 React Webpack.md",
-    "React Redux/🏠 React Redux.md",
-    "React Jest/🏠 React Jest.md",
-    "Contex API/🏠 Contex API.md",
-    "React Hooks/🏠 React Hooks.md",
     "React Hooks/7️⃣ Projeto Pratico.md",
     "React Hooks/6️⃣ Testes e Debugging.md",
     "React Hooks/5️⃣ Casos de Uso Avancados.md",
