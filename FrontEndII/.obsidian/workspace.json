@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React Router/7️⃣ Projeto Pratico.md",
+                "file": "React Webpack/☰ React Webpack.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7️⃣ Projeto Pratico"
+              "title": "☰ React Webpack"
             }
           }
         ]
@@ -168,18 +168,19 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "4e4601558a8d0eca",
+  "active": "f59c897ae622b68a",
   "lastOpenFiles": [
+    "Contex API/☰ Contex API.md",
+    "Styled Components/☰ Styled Components.md",
+    "React Webpack/☰ React Webpack.md",
+    "React Router/☰ React Router.md",
+    "React Redux/☰ React Redux.md",
+    "React Jest/☰ React Jest.md",
+    "React Hooks/☰ React Hooks.md",
+    "React Router/7️⃣ Projeto Pratico.md",
     "React Router/5️⃣ Rotas Dinamicas e Lazy Loading.md",
     "React Router/6️⃣ Transicoes e Animacoes.md",
     "React Router/4️⃣ Protecao de Rotas.md",
-    "Styled Components/🏠 Styled Components.md",
-    "React Webpack/🏠 React Webpack.md",
-    "React Router/🏠 React Router.md",
-    "React Redux/🏠 React Redux.md",
-    "React Jest/🏠 React Jest.md",
-    "React Hooks/🏠 React Hooks.md",
-    "Contex API/🏠 Contex API.md",
     "FrontEndStudyMap/IntensivaoFrontEndI/React Router/7️⃣ Projeto Pratico.md",
     "FrontEndStudyMap/IntensivaoFrontEndI/React Router",
     "FrontEndStudyMap/IntensivaoFrontEndI",
@@ -187,7 +188,6 @@
     "React Router/3️⃣ Rotas Aninhadas e Parametros.md",
     "React Router/2️⃣ Rotas Basicas e Navegacao.md",
     "React Router/1️⃣ Fundamentos do React Router.md",
-    "React Router/7️⃣ Projeto Pratico.md",
     "React Hooks/1️⃣ Fundamentos dos Hooks.md",
     "React Hooks/7️⃣ Projeto Pratico.md",
     "React Hooks/6️⃣ Testes e Debugging.md",

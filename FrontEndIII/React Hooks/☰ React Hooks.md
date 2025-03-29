@@ -16,7 +16,7 @@
 [[1.15 Depurar Hooks]]
 [[1.16 Debugging de Hooks]]
 
-[[2. Tecnicas para otimizar a performance]]
+
 [[2.1 Use o useMemo para memorizar valores caros de computar]]
 [[2.2  Evite recriar funcoes usando useCallback]]
  [[2.3 Divida seu estado]]

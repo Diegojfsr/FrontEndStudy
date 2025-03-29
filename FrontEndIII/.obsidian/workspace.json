@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "b0a30571f8423556",
+        "id": "7f7e7f45b99699fd",
         "type": "tabs",
         "children": [
           {
-            "id": "9e2cf56a3e754bfe",
+            "id": "2f20db733e224401",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "React Hooks/🏠 React Hooks.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "🏠 React Hooks"
+              "title": "Nova aba"
             }
           }
         ]
@@ -41,7 +37,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": true
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Explorador de arquivos"
@@ -78,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 259
+    "width": 245
   },
   "right": {
     "id": "540752595780d070",
@@ -168,23 +164,23 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "9e2cf56a3e754bfe",
+  "active": "2f20db733e224401",
   "lastOpenFiles": [
-    "React Hooks/🏠 React Hooks.md",
-    "React APIs/🏠 React APIs.md",
-    "React Hooks/2.3 Divida seu estado.md",
-    "React Hooks/2. Tecnicas para otimizar a performance.md",
-    "React Hooks/2.2  Evite recriar funcoes usando useCallback.md",
-    "React Hooks/2.1 Use o useMemo para memorizar valores caros de computar.md",
-    "React Redux/🏠 React Redux.md",
-    "React Styled/🏠 React Styled.md",
+    "React APIs/☰ React APIs.md",
+    "React Styled/☰ React Styled.md",
     "React Router/1.1 O que e React Router e por que usa-lo.md",
+    "React Router/☰ React Router.md",
+    "React Redux/1.1 JSX, JavaScript XML.md",
+    "React Redux/☰ React Redux.md",
+    "React Hooks/1.1 useState.md",
+    "React Hooks/☰ React Hooks.md",
+    "React Hooks/2.2  Evite recriar funcoes usando useCallback.md",
+    "React Hooks/2. Tecnicas para otimizar a performance.md",
+    "React Hooks/2.3 Divida seu estado.md",
+    "React Hooks/2.1 Use o useMemo para memorizar valores caros de computar.md",
     "React Redux/2.1 O que e Redux.md",
     "React Redux/1.5 Hooks.md",
-    "React Redux/1.1 JSX, JavaScript XML.md",
-    "React Hooks/1.1 useState.md",
     "React Hooks/1.2 useEffect.md",
-    "React Router/🏠 React Router.md",
     "🟩 NodeJs/🟩 NodeJs.md",
     "🟩 NodeJs/1️⃣ Fundamentos do Node js.md",
     "⚛️ ReactJs/⚛️ ReactJs.md",
