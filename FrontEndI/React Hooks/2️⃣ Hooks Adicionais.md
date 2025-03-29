@@ -1,5 +1,4 @@
-
-## 1.1 Uso do hook useContext para acessar o contexto
+##  <span style="color:rgb(255,255,0)">1.1 Uso do hook useContext para acessar o contexto</span>
 
 O hook useContext no React é usado para acessar o contexto disponibilizado pelo Context API, que é uma forma eficiente de compartilhar dados entre componentes sem a necessidade de passar "props" manualmente por cada nível da árvore de componentes.
 
