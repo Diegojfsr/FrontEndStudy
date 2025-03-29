@@ -1,24 +1,20 @@
 {
   "main": {
-    "id": "426e963bf945ed5d",
+    "id": "c3bda8a5bc6f49a0",
     "type": "split",
     "children": [
       {
-        "id": "e53d5825d4b4a463",
+        "id": "c9a0a0c1ab4463d6",
         "type": "tabs",
         "children": [
           {
-            "id": "fe7634dc2b512601",
+            "id": "53567df981524a15",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "React Router/7️⃣ Projeto Pratico.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "7️⃣ Projeto Pratico"
+              "title": "Nova aba"
             }
           }
         ]
@@ -27,28 +23,28 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "5ba764688d4c4512",
+    "id": "c883c67c61da750f",
     "type": "split",
     "children": [
       {
-        "id": "e69cea894601dc20",
+        "id": "2000adc08ac022bf",
         "type": "tabs",
         "children": [
           {
-            "id": "f59c897ae622b68a",
+            "id": "891d37c8ff02e519",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": true
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Explorador de arquivos"
             }
           },
           {
-            "id": "b2ce9e7a2593fcf1",
+            "id": "710dd6f8ceccf606",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +61,7 @@
             }
           },
           {
-            "id": "b9fa5748b6da9587",
+            "id": "82dd58e209a0fd7e",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -78,66 +74,49 @@
       }
     ],
     "direction": "horizontal",
-    "width": 260
+    "width": 300
   },
   "right": {
-    "id": "540752595780d070",
+    "id": "8e4d3780b26b35cd",
     "type": "split",
     "children": [
       {
-        "id": "90b6edcbbaa00929",
+        "id": "1fba05c974138409",
         "type": "tabs",
         "children": [
           {
-            "id": "38169557652d9a32",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "React Router/7️⃣ Projeto Pratico.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Sumário de 7️⃣ Projeto Pratico"
-            }
-          },
-          {
-            "id": "191d38301f08e2d9",
+            "id": "dac93764f6b3afe6",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React Router/7️⃣ Projeto Pratico.md",
-                "collapseAll": true,
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para 7️⃣ Projeto Pratico"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "c45d1da6f99ebd75",
+            "id": "2c2d25c174c5424a",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "React Router/7️⃣ Projeto Pratico.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Links de saída para 7️⃣ Projeto Pratico"
+              "title": "Links de saída"
             }
           },
           {
-            "id": "66b8b433d17b8f15",
+            "id": "1f2a76246c05e458",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -150,12 +129,26 @@
               "icon": "lucide-tags",
               "title": "Tags"
             }
+          },
+          {
+            "id": "2504cf5acb459890",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário"
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 254,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
@@ -168,28 +161,6 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "fe7634dc2b512601",
-  "lastOpenFiles": [
-    "React Router/6️⃣ Transicoes e Animacoes.md",
-    "React Router/5️⃣ Rotas Dinamicas e Lazy Loading.md",
-    "React Router/4️⃣ Protecao de Rotas.md",
-    "React Router/3️⃣ Rotas Aninhadas e Parametros.md",
-    "React Router/2️⃣ Rotas Basicas e Navegacao.md",
-    "React Router/1️⃣ Fundamentos do React Router.md",
-    "React Router/🏠 React Router.md",
-    "React Hooks/1️⃣ Fundamentos dos Hooks.md",
-    "Styled Components/🏠 Styled Components.md",
-    "React Webpack/🏠 React Webpack.md",
-    "React Redux/🏠 React Redux.md",
-    "React Jest/🏠 React Jest.md",
-    "Contex API/🏠 Contex API.md",
-    "React Hooks/🏠 React Hooks.md",
-    "React Hooks/7️⃣ Projeto Pratico.md",
-    "React Hooks/6️⃣ Testes e Debugging.md",
-    "React Hooks/5️⃣ Casos de Uso Avancados.md",
-    "React Hooks/4️⃣ Hooks Personalizados.md",
-    "React Hooks/3️⃣ Hooks de Referencia.md",
-    "React Hooks/2️⃣ Hooks Adicionais.md",
-    "Contex API/Sem título"
-  ]
+  "active": "53567df981524a15",
+  "lastOpenFiles": []
 }
