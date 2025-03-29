@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🟦 TypeScript/🟦 TypeScript.md",
+                "file": "🌐 NextJs/🌐 NextJs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "🟦 TypeScript"
+              "title": "🌐 NextJs"
             }
           }
         ],
@@ -110,13 +110,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🟦 TypeScript/🟦 TypeScript.md",
+                "file": "🌐 NextJs/🌐 NextJs.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de 🟦 TypeScript"
+              "title": "Sumário de 🌐 NextJs"
             }
           },
           {
@@ -186,6 +186,7 @@
   },
   "active": "9e2cf56a3e754bfe",
   "lastOpenFiles": [
+    "🟦 TypeScript/🟦 TypeScript.md",
     "🟩 NodeJs/5️⃣ Autenticacao e Autorizacao.md",
     "🟨 JavaScript/🟨 JavaScript.md",
     "🟩 NodeJs/4️⃣ Banco de Dados.md",
@@ -194,7 +195,6 @@
     "🟩 NodeJs/1️⃣ Fundamentos do Node js.md",
     "🟩 NodeJs/🟩 NodeJs.md",
     "🌐 NextJs/🌐 NextJs.md",
-    "🟦 TypeScript/🟦 TypeScript.md",
     "⚛️ ReactJs/⚛️ ReactJs.md",
     "🟩 NodeJs/6️⃣ APIs RESTful.md",
     "🟩 NodeJs/7️⃣ Projeto Pratico.md",
