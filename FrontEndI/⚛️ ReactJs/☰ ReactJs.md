@@ -3,7 +3,7 @@
 1️⃣ Fundamentos do React
 - [ ] [[1.1.Introducao ao React]]: O que é e por que usar.
 - [ ] [[1.2 Instalacao e Configuracao]]: Instale o Node.jse configure seu ambiente de desenvolvimento.
-- [ ] JSX: Entenda o que é JSX e como usá-lo.
+- [ ] [[1.3 O que e JSX]]: Entenda o que é JSX e como usá-lo.
 
 
 2️⃣ Componentes e Props
