@@ -26,7 +26,7 @@
 
 5️⃣ Roteamento e Navegação
 - [ ] [[5.1 React Router]]: Configuração e uso do React Router para navegação.
-- [ ] Rotas Dinâmicas: Criação de rotas dinâmicas e aninhadas.
+- [ ] [[5.2 Rotas Dinamicas]]: Criação de rotas dinâmicas e aninhadas.
 - [ ] Navegação Programática: Uso de navegação programática para redirecionamento.
 
 
