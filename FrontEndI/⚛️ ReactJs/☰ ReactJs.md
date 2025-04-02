@@ -9,7 +9,7 @@
 2️⃣ Componentes e Props
 - [ ] [[2.1 Componentes]]: Criação e uso de componentes funcionais e de classe.
 - [ ] [[2.2 Props]]: Passagem de dados entre componentes usando props.
-- [ ] Estado (State): Introdução ao estado e como gerenciá-lo.
+- [ ] [[2.3 State]]: Introdução ao estado e como gerenciá-lo.
 
 
 3️⃣ Estado e Ciclo de Vida
