@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🟩 NodeJs/1️⃣ Fundamentos do Node js.md",
+                "file": "⚛️ ReactJs/1.1.Introducao ao React.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1️⃣ Fundamentos do Node js"
+              "title": "1.1.Introducao ao React"
             }
           }
         ]
@@ -94,13 +94,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🟩 NodeJs/1️⃣ Fundamentos do Node js.md",
+                "file": "⚛️ ReactJs/1.1.Introducao ao React.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de 1️⃣ Fundamentos do Node js"
+              "title": "Sumário de 1.1.Introducao ao React"
             }
           },
           {
@@ -168,7 +168,16 @@
   },
   "active": "e1aeb168f1111bde",
   "lastOpenFiles": [
+    "⚛️ ReactJs/☰ ReactJs.md",
+    "⚛️ ReactJs/Instalacao e Configuracao.md",
+    "⚛️ ReactJs/1.1.Introducao ao React.md",
+    "🟩 NodeJs/1️⃣ Fundamentos do Node js.md",
     "🟩 NodeJs/☰ NodeJs.md",
-    "⚛️ ReactJs/☰ ReactJs.md"
+    "🌐 NextJs/☰ NextJs.md",
+    "🟩 NodeJs/7️⃣ Projeto Pratico.md",
+    "🟩 NodeJs/6️⃣ APIs RESTful.md",
+    "🟩 NodeJs/5️⃣ Autenticacao e Autorizacao.md",
+    "🟩 NodeJs/4️⃣ Banco de Dados.md",
+    "🟩 NodeJs/2️⃣ Modulos e NPM.md"
   ]
 }
