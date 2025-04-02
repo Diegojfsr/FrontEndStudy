@@ -7,7 +7,7 @@
 
 
 2️⃣ Componentes e Props
-- [ ] Componentes: Criação e uso de componentes funcionais e de classe.
+- [ ] [[2.1 Componentes]]: Criação e uso de componentes funcionais e de classe.
 - [ ] Props: Passagem de dados entre componentes usando props.
 - [ ] Estado (State): Introdução ao estado e como gerenciá-lo.
 
