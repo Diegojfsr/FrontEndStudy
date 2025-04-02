@@ -37,7 +37,7 @@
 
 ### 7️⃣ Projeto Prático
 
-Projeto Final: Desenvolva um projeto para aplicar os aprendizados. 
+[[7.1 Projeto Final - Desenvolva um projeto para aplicar os aprendizados]]
 Revisão: Revise os principais conceitos e esclareça dúvidas.
 
 
