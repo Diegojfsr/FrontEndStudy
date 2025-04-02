@@ -22,17 +22,17 @@
             }
           },
           {
-            "id": "914e0051c7244301",
+            "id": "85297414d11c64e9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "⚛️ ReactJs/5.3 Navegacao Programatica.md",
+                "file": "⚛️ ReactJs/6.1 Fetch API.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5.3 Navegacao Programatica"
+              "title": "6.1 Fetch API"
             }
           }
         ],
@@ -109,13 +109,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "⚛️ ReactJs/5.3 Navegacao Programatica.md",
+                "file": "⚛️ ReactJs/6.1 Fetch API.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de 5.3 Navegacao Programatica"
+              "title": "Sumário de 6.1 Fetch API"
             }
           },
           {
@@ -181,9 +181,10 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "914e0051c7244301",
+  "active": "85297414d11c64e9",
   "lastOpenFiles": [
     "⚛️ ReactJs/☰ ReactJs.md",
+    "⚛️ ReactJs/6.1 Fetch API.md",
     "⚛️ ReactJs/5.3 Navegacao Programatica.md",
     "⚛️ ReactJs/5.2 Rotas Dinamicas.md",
     "⚛️ ReactJs/1.1.Introducao ao React.md",

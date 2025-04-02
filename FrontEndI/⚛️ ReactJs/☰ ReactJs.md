@@ -31,9 +31,9 @@
 
 
 6️⃣ Consumo de APIs
-- [ ] Fetch API: Consumo de APIs RESTful usando fetch.
-- [ ] Axios: Uso do Axios para fazer requisições HTTP.
-- [ ] Gerenciamento de Estado Global: Introdução ao Context API e Redux.
+- [ ] [[6.1 Fetch API]]: Consumo de APIs RESTful usando fetch.
+- [ ] 6.2 Axios: Uso do Axios para fazer requisições HTTP.
+- [ ] 6.3 Gerenciamento de Estado Global: Introdução ao Context API e Redux.
 
 
 7️⃣ Projeto Prático
