@@ -13,7 +13,7 @@
 
 
 3️⃣ Estado e Ciclo de Vida
-- [ ] Estado (State): Gerenciamento de estado em componentes de classe e funcionais.
+- [ ] [[3.1  Classes funcionais]]: Gerenciamento de estado em componentes de classe funcionais.
 - [ ] Ciclo de Vida: Métodos de ciclo de vida em componentes de classe.
 - [ ] Hooks: Introdução aos hooks, como useState e useEffect.
 
