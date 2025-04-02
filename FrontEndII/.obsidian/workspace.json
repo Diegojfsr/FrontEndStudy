@@ -1,54 +1,69 @@
 {
   "main": {
-    "id": "426e963bf945ed5d",
+    "id": "a8017cc2ee0e9476",
     "type": "split",
     "children": [
       {
-        "id": "593d4b1a4ca969b4",
+        "id": "f9353b267fcd95f0",
         "type": "tabs",
         "children": [
           {
-            "id": "4e4601558a8d0eca",
+            "id": "e1aeb168f1111bde",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React Webpack/☰ React Webpack.md",
+                "file": "React Hooks/1️⃣ Fundamentos dos Hooks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "☰ React Webpack"
+              "title": "1️⃣ Fundamentos dos Hooks"
+            }
+          },
+          {
+            "id": "1764ce4df47c1047",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "React Hooks/2️⃣ Hooks Adicionais.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2️⃣ Hooks Adicionais"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "5ba764688d4c4512",
+    "id": "95edef668b657176",
     "type": "split",
     "children": [
       {
-        "id": "e69cea894601dc20",
+        "id": "fd926b8554709dde",
         "type": "tabs",
         "children": [
           {
-            "id": "f59c897ae622b68a",
+            "id": "1b02efb55613b8a3",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": true
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Explorador de arquivos"
             }
           },
           {
-            "id": "b2ce9e7a2593fcf1",
+            "id": "fcf5211b07f910d2",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +80,7 @@
             }
           },
           {
-            "id": "b9fa5748b6da9587",
+            "id": "2546ad1fa6d4380f",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -78,66 +93,65 @@
       }
     ],
     "direction": "horizontal",
-    "width": 257
+    "width": 200
   },
   "right": {
-    "id": "540752595780d070",
+    "id": "1b77f82fc4207f64",
     "type": "split",
     "children": [
       {
-        "id": "90b6edcbbaa00929",
+        "id": "ed9588303afd4cca",
         "type": "tabs",
         "children": [
           {
-            "id": "38169557652d9a32",
+            "id": "a29bd78191eb249e",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "React Router/7️⃣ Projeto Pratico.md",
+                "file": "React Hooks/2️⃣ Hooks Adicionais.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de 7️⃣ Projeto Pratico"
+              "title": "Sumário de 2️⃣ Hooks Adicionais"
             }
           },
           {
-            "id": "191d38301f08e2d9",
+            "id": "dbe9e1e4c0cb097a",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React Router/7️⃣ Projeto Pratico.md",
-                "collapseAll": true,
+                "file": "React Hooks/1️⃣ Fundamentos dos Hooks.md",
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para 7️⃣ Projeto Pratico"
+              "title": "Links inversos para 1️⃣ Fundamentos dos Hooks"
             }
           },
           {
-            "id": "c45d1da6f99ebd75",
+            "id": "433c1db50f655ade",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "React Router/7️⃣ Projeto Pratico.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Links de saída para 7️⃣ Projeto Pratico"
+              "title": "Links de saída"
             }
           },
           {
-            "id": "66b8b433d17b8f15",
+            "id": "8683bbb36e1857f7",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -155,8 +169,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 254,
-    "collapsed": true
+    "width": 248.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -168,33 +181,11 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "f59c897ae622b68a",
+  "active": "1764ce4df47c1047",
   "lastOpenFiles": [
-    "Contex API/☰ Contex API.md",
-    "Styled Components/☰ Styled Components.md",
-    "React Webpack/☰ React Webpack.md",
-    "React Router/☰ React Router.md",
-    "React Redux/☰ React Redux.md",
-    "React Jest/☰ React Jest.md",
-    "React Hooks/☰ React Hooks.md",
-    "React Router/7️⃣ Projeto Pratico.md",
-    "React Router/5️⃣ Rotas Dinamicas e Lazy Loading.md",
-    "React Router/6️⃣ Transicoes e Animacoes.md",
-    "React Router/4️⃣ Protecao de Rotas.md",
-    "FrontEndStudyMap/IntensivaoFrontEndI/React Router/7️⃣ Projeto Pratico.md",
-    "FrontEndStudyMap/IntensivaoFrontEndI/React Router",
-    "FrontEndStudyMap/IntensivaoFrontEndI",
-    "FrontEndStudyMap",
-    "React Router/3️⃣ Rotas Aninhadas e Parametros.md",
-    "React Router/2️⃣ Rotas Basicas e Navegacao.md",
-    "React Router/1️⃣ Fundamentos do React Router.md",
     "React Hooks/1️⃣ Fundamentos dos Hooks.md",
-    "React Hooks/7️⃣ Projeto Pratico.md",
-    "React Hooks/6️⃣ Testes e Debugging.md",
-    "React Hooks/5️⃣ Casos de Uso Avancados.md",
-    "React Hooks/4️⃣ Hooks Personalizados.md",
-    "React Hooks/3️⃣ Hooks de Referencia.md",
     "React Hooks/2️⃣ Hooks Adicionais.md",
-    "Contex API/Sem título"
+    "🟩 NodeJs/☰ NodeJs.md",
+    "⚛️ ReactJs/☰ ReactJs.md"
   ]
 }

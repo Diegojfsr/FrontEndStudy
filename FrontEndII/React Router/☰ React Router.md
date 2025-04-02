@@ -30,6 +30,6 @@
 - [ ] Animações: Uso de bibliotecas de animação com React Router.  
 - [ ] Experiência do Usuário: Melhoria da experiência do usuário com animações suaves
 
- [[FrontEndStudyMap/IntensivaoFrontEndI/React Router/7️⃣ Projeto Pratico|7️⃣ Projeto Pratico]]
+ [[React Router/7️⃣ Projeto Pratico|7️⃣ Projeto Pratico]]
 - [ ] Projeto Final: Crie um pequeno projeto para aplicar o que aprendeu.  
 - [ ] Revisão: Revise os conceitos e resolva dúvidas.

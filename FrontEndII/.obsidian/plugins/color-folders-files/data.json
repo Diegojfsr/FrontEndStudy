@@ -1,0 +1,73 @@
+{
+  "styles": {
+    "🟩 NodeJs": {
+      "textColor": "#038d49",
+      "applyToSubfolders": true,
+      "applyToFiles": true
+    },
+    "🟨 JavaScript": {
+      "textColor": "#ab7721",
+      "applyToSubfolders": true,
+      "applyToFiles": true
+    },
+    "🟦 TypeScript": {
+      "textColor": "#5190f5",
+      "applyToSubfolders": true,
+      "applyToFiles": true
+    },
+    "🌐 NextJs": {
+      "textColor": "#2da6d2",
+      "applyToSubfolders": true,
+      "applyToFiles": true
+    },
+    "⚛️ ReactJs": {
+      "textColor": "#c943f9",
+      "applyToSubfolders": true,
+      "applyToFiles": true
+    },
+    "Contex API": {
+      "textColor": "#5754f2",
+      "applyToSubfolders": true,
+      "applyToFiles": true,
+      "isBold": true
+    },
+    "React Hooks": {
+      "textColor": "#00d181",
+      "applyToSubfolders": true,
+      "applyToFiles": true,
+      "isBold": true
+    },
+    "React Jest": {
+      "textColor": "#ff7a7a",
+      "applyToSubfolders": true,
+      "applyToFiles": true,
+      "isBold": true
+    },
+    "React Redux": {
+      "textColor": "#f35dfd",
+      "applyToSubfolders": true,
+      "applyToFiles": true,
+      "isBold": true
+    },
+    "React Router": {
+      "textColor": "#f3d439",
+      "applyToSubfolders": true,
+      "applyToFiles": true,
+      "isBold": true
+    },
+    "React Webpack": {
+      "textColor": "#ff3333",
+      "applyToSubfolders": true,
+      "applyToFiles": true,
+      "isBold": true
+    },
+    "Styled Components": {
+      "textColor": "#ff4d94",
+      "applyToSubfolders": true,
+      "applyToFiles": true,
+      "isBold": true
+    }
+  },
+  "presets": {},
+  "presetOrder": []
+}
