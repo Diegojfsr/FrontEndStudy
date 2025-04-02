@@ -1,42 +1,43 @@
 
-[[1️⃣ Fundamentos do Node js]]
-- [ ] Introdução ao Node.js: O que é e por que usar.
-- [ ] Instalação e Configuração: Instale o Node.jse configure seu ambiente de desenvolvimento.
-- [ ] Primeiro Script: Crie um script simples para entender a execução no Node.js.
+### **1️⃣ Fundamentos do Node.js**
 
+[[1.1 Introducao ao Node.js - O que e e por que usar]]
+[[1.2 Instalacao e Configuracao - Instale o Nodejs e configure seu ambiente de desenvolvimento]]
+[[1.3 Primeiro Script - Crie um script simples para entender a execucao no Nodejs]]
 
-[[2️⃣ Modulos e NPM]]
-- [ ] Módulos: Entenda o sistema de módulos do Node.js.
-- [ ] NPM: Uso do Node Package Manager (NPM) para gerenciar dependências.
-- [ ] Pacotes Essenciais: Instale e use pacotes populares como express, lodash.
+### **2️⃣ Módulos e NPM**
 
+[[2.1 Modulos - Entenda o sistema de modulos do Nodejs]]
+[[2.2 NPM - Uso do Node Package Manager (NPM) para gerenciar dependencias]]
+[[2.3 Pacotes Essenciais - Instale e use pacotes populares como express e lodash]]
 
-[[3️⃣ Servidor HTTP]]
-- [ ] Servidor HTTP: Criação de um servidor HTTP básico.
-- [ ] Rotas: Definição de rotas para diferentes endpoints.
-- [ ] Middlewares: Uso de middlewares para manipulação de requisições.
+### **3️⃣ Servidor HTTP**
 
+[[3.1 Servidor HTTP - Criacao de um servidor HTTP basico]]
+[[3.2 Rotas - Definicao de rotas para diferentes endpoints]]
+[[3.3 Middlewares - Uso de middlewares para manipulacao de requisicoes]]
 
-[[4️⃣ Banco de Dados]]
-- [ ] MongoDB: Introdução ao MongoDB e instalação.
-- [ ] Mongoose: Uso do Mongoose para modelagem de dados.
-- [ ] CRUD: Implementação de operações CRUD (Create, Read, Update, Delete).
+### **4️⃣ Banco de Dados**
 
+[[4.1 MongoDB - Introducao ao MongoDB e instalacao]]
+[[4.2 Mongoose - Uso do Mongoose para modelagem de dados]]
+[[4.3 CRUD - Implementacao de operacoes CRUD - Create, Read, Update, Delete]]
 
-[[5️⃣ Autenticacao e Autorizacao]]
-- [ ] JWT: Implementação de autenticação com JSON Web Tokens.
-- [ ] Autorização: Controle de acesso a rotas e recursos.
-- [ ] Segurança: Melhores práticas de segurança no Node.js.
+### **5️⃣ Autenticação e Autorização**
 
+[[5.1 JWT - Implementacao de autenticacao com JSON Web Tokens]]
+[[5.2 Autorizacao - Controle de acesso a rotas e recursos]]
+[[5.3 Seguranca - Melhores praticas de seguranca no Nodejs]]
 
-[[6️⃣ APIs RESTful]]
-- [ ] APIs RESTful: Criação de APIs RESTful com Node.jse Express.
-- [ ] Validação de Dados: Uso de bibliotecas para validação de dados.
-- [ ] Documentação: Documentação de APIs com Swagger ou similar.
+### **6️⃣ APIs RESTful**
 
+[[6.1 APIs RESTful - Criacao de APIs RESTful com Nodejs e Express]]
+[[6.2 Validacao de Dados - Uso de bibliotecas para validacao de dados]]
+[[6.3 Documentacao - Documentacao de APIs com Swagger ou similar]]
 
-[[FrontEndStudyMap/IntensivaoFrontEndII/🟩 NodeJs/1.7 Projeto Pratico]]]
-- [ ] Projeto Final: Crie um pequeno projeto para aplicar o que aprendeu.
-- [ ] Revisão: Revise os conceitos e resolva dúvidas.
+### **7️⃣ Projeto Prático**
+
+[[7.1 Projeto Final - Crie um pequeno projeto para aplicar o que aprendeu]]
+[[7.2 Revisao - Revise os conceitos e resolva duvidas]]
 
 
