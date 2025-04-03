@@ -2,7 +2,7 @@
 ### **1️⃣ Fundamentos do Node.js**
 
 [[1.1 Introducao ao Node.js - O que e e por que usar]]
-[[1.2 Instalacao e Configuracao - Instale o Nodejs e configure seu ambiente de desenvolvimento]]
+[[🟩 NodeJs/1.2 Instalacao e Configuracao - Instale o Nodejs e configure seu ambiente de desenvolvimento]]
 [[1.3 Primeiro Script - Crie um script simples para entender a execucao no Nodejs]]
 
 ### **2️⃣ Módulos e NPM**
@@ -37,7 +37,7 @@
 
 ### **7️⃣ Projeto Prático**
 
-[[7.1 Projeto Final - Crie um pequeno projeto para aplicar o que aprendeu]]
-[[7.2 Revisao - Revise os conceitos e resolva duvidas]]
+[[🟩 NodeJs/7.1 Projeto Final - Crie um pequeno projeto para aplicar o que aprendeu]]
+[[🟩 NodeJs/7.2 Revisao - Revise os conceitos e resolva duvidas]]
 
 

@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React Hooks/2️⃣ Hooks Adicionais.md",
+                "file": "React Hooks/☰ React Hooks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2️⃣ Hooks Adicionais"
+              "title": "☰ React Hooks"
             }
           }
         ],
@@ -109,13 +109,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React Hooks/2️⃣ Hooks Adicionais.md",
+                "file": "React Hooks/☰ React Hooks.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de 2️⃣ Hooks Adicionais"
+              "title": "Sumário de ☰ React Hooks"
             }
           },
           {
@@ -184,6 +184,7 @@
   "active": "1764ce4df47c1047",
   "lastOpenFiles": [
     "React Hooks/1️⃣ Fundamentos dos Hooks.md",
+    "React Hooks/☰ React Hooks.md",
     "React Hooks/2️⃣ Hooks Adicionais.md",
     "🟩 NodeJs/☰ NodeJs.md",
     "⚛️ ReactJs/☰ ReactJs.md"

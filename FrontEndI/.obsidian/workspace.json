@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "2e44238bca24f1d3",
+        "id": "2a7b968e944240a0",
         "type": "tabs",
         "children": [
           {
-            "id": "43ea435bce60a741",
+            "id": "001c3defee243761",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "⚛️ ReactJs/☰ ReactJs.md",
+                "file": "🟦 TypeScript/☰ TypeScript.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "☰ ReactJs"
+              "title": "☰ TypeScript"
             }
           }
         ]
@@ -94,13 +94,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "⚛️ ReactJs/☰ ReactJs.md",
+                "file": "🟦 TypeScript/☰ TypeScript.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de ☰ ReactJs"
+              "title": "Sumário de ☰ TypeScript"
             }
           },
           {
@@ -166,33 +166,33 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "43ea435bce60a741",
+  "active": "001c3defee243761",
   "lastOpenFiles": [
-    "🟩 NodeJs/☰ NodeJs.md",
-    "🟩 NodeJs/7.2 Revisao - Revise os conceitos e resolva duvidas.md",
+    "🟦 TypeScript/1.1 Introducao ao TypeScript - O que e e por que usar.md",
+    "🟦 TypeScript/☰ TypeScript.md",
+    "🟦 TypeScript/1.2 Instalacao e Configuracao - Instale o TypeScript e configure seu ambiente de desenvolvimento.md",
+    "🌐 NextJs/7.2 Revisao - Revise os conceitos e resolva duvidas.md",
     "⚛️ ReactJs/7.2 Revisao - Revise os principais conceitos e esclareca duvidas.md",
+    "🌐 NextJs/☰ NextJs.md",
+    "🌐 NextJs/7.1 Projeto Final - Crie um pequeno projeto para aplicar o que aprendeu.md",
     "🟩 NodeJs/7.1 Projeto Final - Crie um pequeno projeto para aplicar o que aprendeu.md",
     "⚛️ ReactJs/7.1 Projeto Final - Desenvolva um projeto para aplicar os aprendizados.md",
-    "🟩 NodeJs/6.3 Documentacao - Documentacao de APIs com Swagger ou similar.md",
-    "🟩 NodeJs/6.2 Validacao de Dados - Uso de bibliotecas para validacao de dados.md",
-    "🟩 NodeJs/6.1 APIs RESTful - Criacao de APIs RESTful com Nodejs e Express.md",
-    "🟩 NodeJs/5.3 Seguranca - Melhores praticas de seguranca no Nodejs.md",
-    "🟩 NodeJs/5.2 Autorizacao - Controle de acesso a rotas e recursos.md",
-    "🟩 NodeJs/5.1 JWT - Implementacao de autenticacao com JSON Web Tokens.md",
-    "🟩 NodeJs/4.3 CRUD - Implementacao de operacoes CRUD - Create, Read, Update, Delete.md",
-    "🟩 NodeJs/4.2 Mongoose - Uso do Mongoose para modelagem de dados.md",
-    "🟩 NodeJs/4.1 MongoDB - Introducao ao MongoDB e instalacao.md",
-    "🟩 NodeJs/3.3 Middlewares - Uso de middlewares para manipulacao de requisicoes.md",
-    "🟩 NodeJs/3.2 Rotas - Definicao de rotas para diferentes endpoints.md",
-    "🟩 NodeJs/3.1 Servidor HTTP - Criacao de um servidor HTTP basico.md",
-    "🟩 NodeJs/1️⃣ Fundamentos do Node js.md",
-    "🟩 NodeJs/2.3 Pacotes Essenciais - Instale e use pacotes populares como express e lodash.md",
-    "🟩 NodeJs/2.2 NPM - Uso do Node Package Manager (NPM) para gerenciar dependencias.md",
-    "🟩 NodeJs/2.1 Modulos - Entenda o sistema de modulos do Nodejs.md",
-    "🟩 NodeJs/1.3 Primeiro Script - Crie um script simples para entender a execucao no Nodejs.md",
-    "🟩 NodeJs/1.2 Instalacao e Configuracao - Instale o Nodejs e configure seu ambiente de desenvolvimento.md",
-    "🟩 NodeJs/1.1 Introducao ao Node.js - O que e e por que usar.md",
-    "⚛️ ReactJs/☰ ReactJs.md",
-    "⚛️ ReactJs/6.3 Gerenciamento de Estado Global - Explore o Context API e introducao ao Redux.md"
+    "🌐 NextJs/6.3 Analise de Desempenho - Ferramentas para analisar e melhorar o desempenho.md",
+    "🌐 NextJs/6.2 Lazy Loading - Carregamento preguicoso de componentes e imagens.md",
+    "🌐 NextJs/6.1 Otimizacao de Imagens - Uso do componente Image do Nextjs.md",
+    "🌐 NextJs/5.3 JWT - Uso de JSON Web Tokens para autenticacao.md",
+    "🌐 NextJs/5.2 Autorizacao - Controle de acesso a paginas e componentes.md",
+    "🌐 NextJs/5.1 Autenticacao - Implementacao de autenticacao com NextAuthjs.md",
+    "🌐 NextJs/4.3 API Routes - Criacao de rotas de API no Nextjs.md",
+    "🌐 NextJs/4.2 getStaticProps e getServerSideProps - Metodos para buscar dados no Nextjs.md",
+    "🌐 NextJs/4.1 Fetch API - Consumo de APIs RESTful usando fetch.md",
+    "🌐 NextJs/3.3 Componentes Reutilizaveis - Criacao de componentes reutilizaveis.md",
+    "🌐 NextJs/3.2 Styled Components - Introducao ao uso de styled-components.md",
+    "🌐 NextJs/3.1 CSS e Sass - Estilizacao de componentes usando CSS e Sass.md",
+    "🌐 NextJs/2.3 Link Component - Uso do componente Link para navegacao.md",
+    "🌐 NextJs/2.2 Roteamento - Navegação entre paginas usando o roteamento do Nextjs.md",
+    "🌐 NextJs/2.1 Paginas - Criacao de paginas em Nextjs.md",
+    "🌐 NextJs/1.3 Primeiro Projeto -Crie um projeto basico com create-next-app.md",
+    "🌐 NextJs/1.2 Instalacao e Configuracao - Instale o Nodejs e configure seu ambiente de desenvolvimento.md"
   ]
 }
