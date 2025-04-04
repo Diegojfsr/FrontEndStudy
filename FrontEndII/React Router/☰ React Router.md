@@ -1,35 +1,48 @@
 
 
- [[1️⃣ Fundamentos do React Router]]
-- [ ] Introdução ao React Router: O que é e por que usar.
-- [ ] Instalação e Configuração: Instale o React Router e configure seu ambiente de desenvolvimento.
-- [ ] Primeira Rota: Crie uma rota básica e entenda como funciona.
+##  **1️⃣ Fundamentos do React Router**
+ 
+ [[1.1 Introducao ao React Router - O que e e por que usar]]
+ [[1.2 Instalacao e Configuracao - Instale o React Router e configure seu ambiente de desenvolvimento]]
+ [[1.3 Primeira Rota - Crie uma rota basica e entenda como funciona]]
 
- [[2️⃣ Rotas Basicas e Navegacao]]
-- [ ] Rotas Simples: Criação de rotas simples e navegação entre elas.  
-- [ ] Link Component: Uso do componente Link para navegação.  
-- [ ] Navegação Programática: Uso de navegação programática para redirecionamento.
+## **2️⃣ Rotas Basicas e Navegacao**
+ 
+[[2.1 Rotas Simples - Criacao de rotas simples e navegacao entre elas]]
+[[2.2 Link Component - Uso do componente Link para navegacao]]
+ [[2.3 Navegacao Programatica - Uso de navegacao programatica para redirecionamento]]
 
- [[3️⃣ Rotas Aninhadas e Parametros]]
-- [ ] Rotas Aninhadas: Criação de rotas aninhadas.  
-- [ ] Parâmetros de Rota: Trabalhando com parâmetros de rota.  
-- [ ] Hooks de Roteamento: Uso de hooks como useParams e useRouteMatch
 
- [[4️⃣ Protecao de Rotas]]
-- [ ] Rotas Protegidas: Implementação de rotas protegidas.  
-- [ ] Autenticação: Controle de acesso a rotas com autenticação.  
-- [ ] Redirecionamento: Uso de redirecionamento condicional.
+## **3️⃣ Rotas Aninhadas e Parametros**
+ 
+ [[3.1 Rotas Aninhadas - Criacao de rotas aninhadas]]
+ [[3.2 Parametros de Rota - Trabalhando com parametros de rota]] 
+ [[3.3 Hooks de Roteamento - Uso de hooks como useParams e useRouteMatch]]
 
- [[5️⃣ Rotas Dinamicas e Lazy Loading]]
-- [ ] Rotas Dinâmicas: Criação de rotas dinâmicas.  
-- [ ] Lazy Loading: Carregamento preguiçoso de componentes.  
-- [ ] Suspense e Error Boundaries: Uso de Suspense e Error Boundaries para melhorar a experiência do usuário.
+## **4️⃣ Protecao de Rotas**
+ 
+ [[4.1 Rotas Protegidas - Implementacao de rotas protegidas]] 
+[[4.2 Autenticacao - Controle de acesso a rotas com autenticacao]]
+ [[4.3 Redirecionamento - Uso de redirecionamento condicional]]
 
- [[6️⃣ Transicoes e Animacoes]]
-- [ ] Transições de Página: Implementação de transições de página.  
-- [ ] Animações: Uso de bibliotecas de animação com React Router.  
-- [ ] Experiência do Usuário: Melhoria da experiência do usuário com animações suaves
+## **5️⃣ Rotas Dinamicas e Lazy Loading**
+ 
+ [[5.1 Rotas Dinamicas - Criacao de rotas dinamicas]]
+ [[5.2 Lazy Loading - Carregamento preguicoso de componentes]]
+ [[5.3 Suspense e Error Boundaries - Uso de Suspense e Error Boundaries para melhorar a experiencia do usuario]]
 
- [[React Router/7️⃣ Projeto Pratico|7️⃣ Projeto Pratico]]
-- [ ] Projeto Final: Crie um pequeno projeto para aplicar o que aprendeu.  
-- [ ] Revisão: Revise os conceitos e resolva dúvidas.
+## **6️⃣ Transicoes e Animacoes**
+ 
+[[6.1 Transicoes de Pagina - Implementacao de transicoes de pagina]]  
+[[6.2 Animacoes - Uso de bibliotecas de animacao com React Router]] 
+[[6.3 Experiencia do Usuario - Melhoria da experiencia do usuario com animacoes suaves]]
+
+
+## **7️⃣ Projeto Pratico**
+ 
+[[7.1 Projeto Final - Crie um pequeno projeto para aplicar o que aprendeu]] 
+[[7.2 Revisao - Revise os conceitos e resolva duvidas]]
+
+
+
+

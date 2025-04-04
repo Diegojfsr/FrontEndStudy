@@ -3,7 +3,7 @@
   "Appearance-dark@@card-border-radius-dark": "15px",
   "Appearance-dark@@mod-left-split-background-select-dark": "mod-left-split-background-primary-dark",
   "Appearance-dark@@mod-root-split-background-select-dark": "mod-root-split-background-primary-dark",
-  "Appearance-dark@@theme-dark-style-select": "theme-dark-background-default",
+  "Appearance-dark@@theme-dark-style-select": "theme-dark-background-darker",
   "Appearance-dark@@background-underlying-select-dark": "background-underlying-default-dark",
   "Appearance-dark@@background-underlying-dark": "#120114",
   "Editor@@line-hover-indicator": true,

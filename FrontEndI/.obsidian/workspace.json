@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🟨 JavaScript/☰ JavaScript.md",
+                "file": "🟨 JavaScript/7.4 Revisao - Revise os conceitos e resolva duvidas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "☰ JavaScript"
+              "title": "7.4 Revisao - Revise os conceitos e resolva duvidas"
             }
           }
         ]
@@ -94,13 +94,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🟨 JavaScript/☰ JavaScript.md",
+                "file": "🟨 JavaScript/7.4 Revisao - Revise os conceitos e resolva duvidas.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de ☰ JavaScript"
+              "title": "Sumário de 7.4 Revisao - Revise os conceitos e resolva duvidas"
             }
           },
           {
@@ -168,9 +168,9 @@
   },
   "active": "8e1775a2171f9e51",
   "lastOpenFiles": [
+    "🟨 JavaScript/☰ JavaScript.md",
     "🟨 JavaScript/7.4 Revisao - Revise os conceitos e resolva duvidas.md",
     "🟦 TypeScript/7.2 Revisao - Revise os conceitos e resolva duvidas.md",
-    "🟨 JavaScript/☰ JavaScript.md",
     "🟦 TypeScript/☰ TypeScript.md",
     "🟨 JavaScript/8.3 Comunidades - Stack Overflow, Reddit, GitHub.md",
     "🟨 JavaScript/8.2 Tutoriais e Cursos - FreeCodeCamp, Codecademy, Udemy.md",
