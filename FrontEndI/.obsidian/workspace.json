@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "55c6776eb56ee0ec",
+        "id": "b991c6979ccdc0d4",
         "type": "tabs",
         "children": [
           {
-            "id": "7ad2bfea2850e4ac",
+            "id": "8e1775a2171f9e51",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🟦 TypeScript/☰ TypeScript.md",
+                "file": "🟨 JavaScript/☰ JavaScript.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "☰ TypeScript"
+              "title": "☰ JavaScript"
             }
           }
         ]
@@ -94,13 +94,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🟦 TypeScript/☰ TypeScript.md",
+                "file": "🟨 JavaScript/☰ JavaScript.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de ☰ TypeScript"
+              "title": "Sumário de ☰ JavaScript"
             }
           },
           {
@@ -166,33 +166,33 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "7ad2bfea2850e4ac",
+  "active": "8e1775a2171f9e51",
   "lastOpenFiles": [
-    "🟦 TypeScript/7.1 Projeto Final - Crie um pequeno projeto para aplicar o que aprendeu.md",
-    "🟦 TypeScript/☰ TypeScript.md",
+    "🟨 JavaScript/7.4 Revisao - Revise os conceitos e resolva duvidas.md",
     "🟦 TypeScript/7.2 Revisao - Revise os conceitos e resolva duvidas.md",
-    "⚛️ ReactJs/7.2 Revisao - Revise os principais conceitos e esclareca duvidas.md",
-    "🟦 TypeScript/6.3 Debugging - Tecnicas de depuracao no TypeScript.md",
-    "🟦 TypeScript/6.1 Compilador TypeScript - Configuracoes do tsconfigjson.md",
-    "🟦 TypeScript/6.2 Linting e Formatacao - Ferramentas como TSLint e Prettier.md",
-    "🟦 TypeScript/5.2 Namespaces - Uso de namespaces para organizar o codigo.md",
-    "🟦 TypeScript/5.1 Modulos - Importacao e exportacao de modulos.md",
-    "🟦 TypeScript/4.2 Generics - Introducao aos generics e como usa-los.md",
-    "🟦 TypeScript/4.1 Funcoes - Declaracao de funcoes, parametros opcionais e padrao.md",
-    "🟦 TypeScript/3.3 Modificadores de Acesso - public, private, protected.md",
-    "🟦 TypeScript/3.2 Heranca - Como funciona a heranca em TypeScript.md",
-    "🟦 TypeScript/3.1 Classes - Definicao e uso de classes.md",
-    "🟦 TypeScript/2.3 Type Aliases - Diferencas entre interfaces e type aliases.md",
-    "🟦 TypeScript/2.2 Interfaces - Criacao e uso de interfaces.md",
-    "🟦 TypeScript/2.1 Tipos Avancados - Explore union, intersection, literal types.md",
-    "🟦 TypeScript/1.3 Tipos Basicos - Entenda tipos primitivos como string, number, boolean, array, tuple, enum.md",
-    "🟦 TypeScript/1.2 Instalacao e Configuracao - Instale o TypeScript e configure seu ambiente de desenvolvimento.md",
-    "🟦 TypeScript/1.1 Introducao ao TypeScript - O que e e por que usar.md",
-    "🌐 NextJs/7.2 Revisao - Revise os conceitos e resolva duvidas.md",
-    "🌐 NextJs/☰ NextJs.md",
-    "🌐 NextJs/7.1 Projeto Final - Crie um pequeno projeto para aplicar o que aprendeu.md",
-    "🟩 NodeJs/7.1 Projeto Final - Crie um pequeno projeto para aplicar o que aprendeu.md",
-    "⚛️ ReactJs/7.1 Projeto Final - Desenvolva um projeto para aplicar os aprendizados.md",
-    "🌐 NextJs/6.3 Analise de Desempenho - Ferramentas para analisar e melhorar o desempenho.md"
+    "🟨 JavaScript/☰ JavaScript.md",
+    "🟦 TypeScript/☰ TypeScript.md",
+    "🟨 JavaScript/8.3 Comunidades - Stack Overflow, Reddit, GitHub.md",
+    "🟨 JavaScript/8.2 Tutoriais e Cursos - FreeCodeCamp, Codecademy, Udemy.md",
+    "🟨 JavaScript/8.1 Documentacao Oficial - MDN Web Docs.md",
+    "🟨 JavaScript/7.3 Publicacao - Como hospedar seu projeto (GitHub Pages, Netlify).md",
+    "🟨 JavaScript/7.2 Revisao e Melhoria - Refatorar codigo, adicionar funcionalidades extras.md",
+    "🟨 JavaScript/7.1 Desenvolvimento de um Projeto Completo - Aplicar todos os conceitos aprendidos.md",
+    "🟨 JavaScript/6.3 Event Delegation - Conceito e aplicacao.md",
+    "🟨 JavaScript/6.2 Formularios - Manipulacao de formularios, validacao de dados.md",
+    "🟨 JavaScript/6.1 Eventos - Adicionar e remover eventos, tipos de eventos.md",
+    "🟨 JavaScript/5.3 Manipulacao de Elementos - Alterar conteudo, estilos, eventos.md",
+    "🟨 JavaScript/5.2 Selecao de Elementos - Metodos (getElementById, querySelector).md",
+    "🟨 JavaScript/5.1 DOM (Document Object Model) - Conceito e navegacao.md",
+    "🟨 JavaScript/4.3 Async-Await - Simplificando codigo assincrono.md",
+    "🟨 JavaScript/4.2 Promises - Criacao e uso de promises.md",
+    "🟨 JavaScript/4.1 Callbacks - Conceito e uso.md",
+    "🟨 JavaScript/3.3 Manipulacao de Objetos e Arrays - Iteracao e transformacao.md",
+    "🟨 JavaScript/3.2 Arrays - Criacao, metodos de array (push, pop, map, filter, reduce).md",
+    "🟨 JavaScript/3.1 Objetos - Criacao, propriedades, metodos.md",
+    "🟨 JavaScript/2.3 Closures - Conceito e exemplos praticos.md",
+    "🟨 JavaScript/2.2 Escopo - Global, local, escopo de bloco, hoisting.md",
+    "🟨 JavaScript/2.1 Funcoes - Declaracao, expressao, arrow functions.md",
+    "🟨 JavaScript/1.3 Estruturas de Controle - Condicionais (if, else, switch) e loops (for, while).md"
   ]
 }
