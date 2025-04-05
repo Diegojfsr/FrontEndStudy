@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🟨 JavaScript/7.4 Revisao - Revise os conceitos e resolva duvidas.md",
+                "file": "⚛️ ReactJs/☰ ReactJs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7.4 Revisao - Revise os conceitos e resolva duvidas"
+              "title": "☰ ReactJs"
             }
           }
         ]
@@ -94,13 +94,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🟨 JavaScript/7.4 Revisao - Revise os conceitos e resolva duvidas.md",
+                "file": "⚛️ ReactJs/☰ ReactJs.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de 7.4 Revisao - Revise os conceitos e resolva duvidas"
+              "title": "Sumário de ☰ ReactJs"
             }
           },
           {
@@ -168,8 +168,8 @@
   },
   "active": "8e1775a2171f9e51",
   "lastOpenFiles": [
-    "🟨 JavaScript/☰ JavaScript.md",
     "🟨 JavaScript/7.4 Revisao - Revise os conceitos e resolva duvidas.md",
+    "🟨 JavaScript/☰ JavaScript.md",
     "🟦 TypeScript/7.2 Revisao - Revise os conceitos e resolva duvidas.md",
     "🟦 TypeScript/☰ TypeScript.md",
     "🟨 JavaScript/8.3 Comunidades - Stack Overflow, Reddit, GitHub.md",

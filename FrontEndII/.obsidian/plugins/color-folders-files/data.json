@@ -66,6 +66,18 @@
       "applyToSubfolders": true,
       "applyToFiles": true,
       "isBold": true
+    },
+    "GraphQL": {
+      "textColor": "#eba2e2",
+      "isBold": true,
+      "applyToSubfolders": true,
+      "applyToFiles": true
+    },
+    "Tailwind CSS": {
+      "textColor": "#bd60fb",
+      "isBold": true,
+      "applyToSubfolders": true,
+      "applyToFiles": true
     }
   },
   "presets": {},
