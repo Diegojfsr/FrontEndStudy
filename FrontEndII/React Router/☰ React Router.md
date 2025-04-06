@@ -40,8 +40,8 @@
 
 ## **7️⃣ Projeto Pratico**
  
-[[7.1 Projeto Final - Crie um pequeno projeto para aplicar o que aprendeu]] 
-[[7.2 Revisao - Revise os conceitos e resolva duvidas]]
+[[React Router/7.1 Projeto Final - Crie um pequeno projeto para aplicar o que aprendeu]] 
+[[React Router/7.2 Revisao - Revise os conceitos e resolva duvidas]]
 
 
 
