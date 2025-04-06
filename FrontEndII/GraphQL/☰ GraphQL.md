@@ -1,48 +1,55 @@
 
-###  **1️⃣ Introdução aos conceitos básicos**
+###  **1️ Introdução aos conceitos básicos**
 
-**O que é GraphQL?** Entenda a diferença entre GraphQL e REST.
-**Por que usar GraphQL?** Explore as vantagens, como maior eficiência nas consultas.
-Recurso sugerido: Leia a documentação oficial do GraphQL.
+[[1.1 O que e GraphQL - Entenda a diferença entre GraphQL e REST]]
+[[1.2 Por que usar GraphQL - Explore as vantagens, como maior eficiencia nas consultas]]
+[[1.3 Recurso sugerido - Leia a documentacao oficial do GraphQL]]
 
-### **2️⃣ Aprender a sintaxe**
+### **2️ Aprender a sintaxe**
 
-**Consultas (Queries):** Como buscar dados específicos.
-**Mutations:** Como modificar os dados no servidor.
-**Subscriptions:** Como receber atualizações em tempo real.
-Experimente o **GraphiQL**, uma ferramenta interativa para testar consultas.
+[[2.1 Consultas (Queries) - Como buscar dados especificos]]
+[[2.2 Mutations - Como modificar os dados no servidor]]
+[[2.3 Subscriptions - Como receber atualizacoes em tempo real]]
+[[2.4 Experimente o GraphiQL, uma ferramenta interativa para testar consultas]]
 
 
-###  **3️⃣ Configuração de um servidor GraphQL**
+###  **3️ Configuração de um servidor GraphQL**
 
-Escolha uma linguagem (como **JavaScript**, **Python**, **Ruby**).
-Para JavaScript: Use bibliotecas como **Apollo Server** ou **Express-GraphQL**.
-Recurso sugerido: Siga tutoriais básicos para configurar um servidor GraphQL simples.
+[[3.1 Escolha uma linguagem (como JavaScript, Python, Ruby)]]
+[[3.2 Para JavaScript - Use bibliotecas como Apollo Server ou Express-GraphQL]]
+[[3.3 Recurso sugerido - Siga tutoriais basicos para configurar um servidor GraphQL simples]]
 
-### **4️⃣ Explorando clientes GraphQL**
+### **4️ Explorando clientes GraphQL**
 
-Conheça como integrar GraphQL em aplicações front-end.
-Ferramentas populares: **Apollo Client** e **Relay**.
-Faça experimentos com frameworks como **React** e **Vue.js**.
+[[4.1 Conheça como integrar GraphQL em aplicacoes front-end]]
+[[4.2 Ferramentas populares - Apollo Client e Relay]]
+[[4.3 Faça experimentos com frameworks como React e Vue.js]]
 
-### **5️⃣ Trabalhar com banco de dados**
+### **5️ Trabalhar com banco de dados**
 
-Aprenda a conectar resolvers GraphQL com bancos de dados (SQL ou NoSQL).
-Exemplos: MongoDB, PostgreSQL.
+[[5.1 Aprenda a conectar resolvers GraphQL com bancos de dados (SQL ou NoSQL)]]
+[[5.2 Exemplos MongoDB, PostgreSQL]]
 
-### **6️⃣ Boas práticas**
+### **6️ Boas práticas**
 
-Validação e autenticação de dados em APIs GraphQL.
-Implementar cache para otimizar o desempenho.
-Monitorar e versionar suas APIs.
+[[6.1 Validacao e autenticacao de dados em APIs GraphQL]]
+[[6.2 Implementar cache para otimizar o desempenho]]
+[[6.3 Monitorar e versionar suas APIs]]
 
-### **7️⃣ Projetos práticos**
+### **7️ Projetos práticos**
 
-Construa uma API GraphQL simples (por exemplo, uma API de lista de tarefas).
-Desenvolva um cliente para consumir sua API.
+[[7.1 Construa uma API GraphQL simples (por exemplo, uma API de lista de tarefas)]]
+[[7.2 Desenvolva um cliente para consumir sua API]]
 
-### **8️⃣ Recursos avançados**
+### **8️ Recursos avançados**
 
-Lidando com Schema Stitching ou Federation para escalabilidade.
-Trabalhe com subscriptions para aplicações em tempo real.
+[[8.1 Lidando com Schema Stitching ou Federation para escalabilidade]]
+[[8.2 Trabalhe com subscriptions para aplicações em tempo real]]
+
+
+### **Projeto Prático**
+
+[[9.1 Projeto Final - Crie um pequeno projeto para aplicar o que aprendeu]]
+[[9.2 Revisao - Revise os conceitos e resolva duvidas]]
+
 

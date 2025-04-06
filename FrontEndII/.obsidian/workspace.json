@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "0274da0148115113",
+        "id": "df2097f68256dc89",
         "type": "tabs",
         "children": [
           {
-            "id": "78fdfc85f0fed47f",
+            "id": "4ed036682c662d57",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Contex API/☰ Contex API.md",
+                "file": "GraphQL/☰ GraphQL.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "☰ Contex API"
+              "title": "☰ GraphQL"
             }
           }
         ]
@@ -94,13 +94,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Contex API/☰ Contex API.md",
+                "file": "GraphQL/☰ GraphQL.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de ☰ Contex API"
+              "title": "Sumário de ☰ GraphQL"
             }
           },
           {
@@ -166,34 +166,34 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "78fdfc85f0fed47f",
+  "active": "4ed036682c662d57",
   "lastOpenFiles": [
-    "Contex API/7.1 Projeto Final - Crie um pequeno projeto para aplicar o que aprendeu.md",
+    "GraphQL/☰ GraphQL.md",
+    "GraphQL/9.2 Revisao - Revise os conceitos e resolva duvidas.md",
+    "GraphQL/9.1 Projeto Final - Crie um pequeno projeto para aplicar o que aprendeu.md",
+    "GraphQL/8.2 Trabalhe com subscriptions para aplicações em tempo real.md",
+    "GraphQL/8.1 Lidando com Schema Stitching ou Federation para escalabilidade.md",
     "Contex API/7.2 Revisao - Revise os conceitos e resolva duvidas.md",
     "Contex API/☰ Contex API.md",
-    "Contex API/6.3 Internacionalizacao - Uso da Context API para internacionalizacao de aplicacoes.md",
-    "Contex API/6.1 Autenticacao - Implementacao de autenticacao com Context API.md",
-    "Contex API/6.2 Temas - Gerenciamento de temas (dark mode, light mode) com Context API.md",
-    "Contex API/5.1 Memoization - Uso de React.memo e useMemo para otimizar performance.md",
-    "Contex API/5.2 Re-renderizacao - Tecnicas para evitar re-renderizacaes desnecessarias.md",
-    "Contex API/5.3 Ferramentas de Performance - Uso de ferramentas para analisar e melhorar a performance.md",
-    "Contex API/4.3 Composicao de Contextos - Tecnicas para compor contextos.md",
-    "Contex API/4.1 Contextos Multiplos - Criacao e uso de multiplos contextos.md",
-    "Contex API/2.3  useContext Hook - Introducao ao hook useContext para acessar o contexto.md",
-    "Contex API/3.3 Boas Praticas - Melhores praticas para gerenciar estado com Context API.md",
-    "Contex API/4.2 Contextos Aninhados - Trabalhando com contextos aninhados.md",
-    "Contex API/3.2  Atualizacao de Estado - Tecnicas para atualizar o estado no contexto.md",
-    "Contex API/3.1 Gerenciamento de Estado - Uso da Context API para gerenciar estado global.md",
-    "Contex API/2.1 Provider - Uso do componente Provider para fornecer dados.md",
-    "Contex API/2.2 Consumer - Uso do componente Consumer para consumir dados.md",
-    "Contex API/1.1 Introducao a Context API - O que e e por que usar.md",
-    "Contex API/1.2 Instalacao e Configuracao - Configure seu ambiente de desenvolvimento.md",
-    "Contex API/1.3 Primeiro Contexto - Crie um contexto basico e entenda como funciona.md",
-    "React Router/1.1 Introducao ao React Router - O que e e por que usar.md",
-    "React Router/1️⃣ Fundamentos do React Router.md",
-    "React Jest/☰ React Jest.md",
-    "React Hooks/☰ React Hooks.md",
-    "GraphQL/☰ GraphQL.md",
+    "Contex API/7.1 Projeto Final - Crie um pequeno projeto para aplicar o que aprendeu.md",
+    "GraphQL/7.1 Construa uma API GraphQL simples (por exemplo, uma API de lista de tarefas).md",
+    "GraphQL/7.2 Desenvolva um cliente para consumir sua API.md",
+    "GraphQL/6.3 Monitorar e versionar suas APIs.md",
+    "GraphQL/6.2 Implementar cache para otimizar o desempenho.md",
+    "GraphQL/6.1 Validacao e autenticacao de dados em APIs GraphQL.md",
+    "GraphQL/5.2 Exemplos MongoDB, PostgreSQL.md",
+    "GraphQL/5.1 Aprenda a conectar resolvers GraphQL com bancos de dados (SQL ou NoSQL).md",
+    "GraphQL/4.3 Faça experimentos com frameworks como React e Vue.js.md",
+    "GraphQL/4.2 Ferramentas populares - Apollo Client e Relay.md",
+    "GraphQL/4.1 Conheça como integrar GraphQL em aplicacoes front-end.md",
+    "GraphQL/3.3 Recurso sugerido - Siga tutoriais basicos para configurar um servidor GraphQL simples.md",
+    "GraphQL/3.2 Para JavaScript - Use bibliotecas como Apollo Server ou Express-GraphQL.md",
+    "GraphQL/3.1 Escolha uma linguagem (como JavaScript, Python, Ruby).md",
+    "GraphQL/2.4 Experimente o GraphiQL, uma ferramenta interativa para testar consultas.md",
+    "GraphQL/2.3 Subscriptions - Como receber atualizacoes em tempo real.md",
+    "GraphQL/2.2 Mutations - Como modificar os dados no servidor.md",
+    "GraphQL/2.1 Consultas (Queries) - Como buscar dados especificos.md",
+    "GraphQL/1.3 Recurso sugerido - Leia a documentacao oficial do GraphQL.md",
     "Tailwind CSS",
     "GraphQL"
   ]
