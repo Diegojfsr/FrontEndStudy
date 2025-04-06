@@ -15,8 +15,8 @@
 
 ## **3️⃣ Rotas Aninhadas e Parametros**
  
- [[3.1 Rotas Aninhadas - Criacao de rotas aninhadas]]
- [[3.2 Parametros de Rota - Trabalhando com parametros de rota]] 
+ [[React Router/3.1 Rotas Aninhadas - Criacao de rotas aninhadas]]
+ [[React Router/3.2 Parametros de Rota - Trabalhando com parametros de rota]] 
  [[3.3 Hooks de Roteamento - Uso de hooks como useParams e useRouteMatch]]
 
 ## **4️⃣ Protecao de Rotas**
