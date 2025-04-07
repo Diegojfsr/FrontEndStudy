@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bundlers/☰ Bundlers.md",
+                "file": "Bundlers em ReactJS/☰ Bundlers em ReactJS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "☰ Bundlers"
+              "title": "☰ Bundlers em ReactJS"
             }
           }
         ]
@@ -94,13 +94,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bundlers/☰ Bundlers.md",
+                "file": "Bundlers em ReactJS/☰ Bundlers em ReactJS.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de ☰ Bundlers"
+              "title": "Sumário de ☰ Bundlers em ReactJS"
             }
           },
           {
@@ -168,14 +168,14 @@
   },
   "active": "1a8ea8ff014f3786",
   "lastOpenFiles": [
+    "Testes em ReactJS/☰ Testes em ReactJS.md",
+    "Api Rest em ReactJs/☰ Api Rest em ReactJs.md",
+    "API REST/☰ API REST.md",
     "Bundlers em ReactJS/☰ Bundlers em ReactJS.md",
     "Bundlers/☰ Bundlers.md",
     "Bundlers em ReactJS",
-    "Testes em ReactJS/☰ Testes em ReactJS.md",
     "Bundlers/Bundlers",
     "Bundlers",
-    "Api Rest em ReactJs/☰ Api Rest em ReactJs.md",
-    "API REST/☰ API REST.md",
     "Testes principais tipos de testes/☰ Testes principais tipos de testes.md",
     "Testes principais tipos de testes",
     "Api Rest em ReactJs",
