@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React Jest/☰ React Jest.md",
+                "file": "React Redux/☰ React Redux.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "☰ React Jest"
+              "title": "☰ React Redux"
             }
           }
         ]
@@ -94,13 +94,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React Jest/☰ React Jest.md",
+                "file": "React Redux/☰ React Redux.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de ☰ React Jest"
+              "title": "Sumário de ☰ React Redux"
             }
           },
           {
@@ -168,32 +168,32 @@
   },
   "active": "7bda43f8adbf6d89",
   "lastOpenFiles": [
+    "React Redux/7.2 Revisao - Revise os conceitos e resolva duvidas.md",
     "React Jest/7.2 Revisao - Revise os conceitos e resolva duvidas.md",
+    "React Redux/7.1 Projeto Final - Crie um pequeno projeto para aplicar o que aprendeu.md",
+    "React Redux/☰ React Redux.md",
+    "React Redux/6.3 Redux Toolkit - Introducao ao Redux Toolkit para simplificar o desenvolvimento.md",
+    "React Redux/6.2  Normalizacao de Dados - Tecnicas para normalizar o estado.md",
+    "React Redux/6.1 Selectors - Criacao e uso de selectors para acessar o estado.md",
+    "React Redux/5.3 Boas Praticas - Melhores praticas para escrever codigo Redux.md",
+    "React Redux/5.2 Modularizacao - Divisao do codigo em modulos reutilizaveis.md",
+    "React Redux/5.1  Estrutura de Pastas - Organizacao de arquivos e pastas em um projeto Redux.md",
+    "React Redux/4.3 Logger Middleware - Implementacao de um middleware de logger.md",
+    "React Redux/4.2 Ferramentas de Desenvolvimento - Uso do Redux DevTools para depuracao.md",
+    "React Redux/4.1 Middleware - Introducao aos middlewares e uso do redux-thunk.md",
+    "React Redux/3.3  Hooks de Roteamento - Uso de hooks como useParams e useRouteMatch.md",
+    "React Redux/3.2 Parametros de Rota - Trabalhando com parametros de rota.md",
+    "React Redux/3.1 Rotas Aninhadas - Criacao de rotas aninhadas.md",
+    "React Redux/2.3  Fluxo de Dados - Entenda o fluxo de dados unidirecional no Redux.md",
+    "React Redux/2.2 Redutores - Definicao de redutores e como eles manipulam o estado.md",
+    "React Redux/2.1 Acoes - Criacao e uso de acoes.md",
+    "React Redux/1.3 Primeiro Store - Crie um store basico e entenda como funciona.md",
+    "React Redux/1.2 Instalacao e Configuracao - Instale o Redux e configure seu ambiente de desenvolvimento.md",
+    "React Redux/1.1 Introducao ao Redux - O que e e por que usar.md",
+    "React Router/1.1 Introducao ao React Router - O que e e por que usar.md",
+    "React Jest/☰ React Jest.md",
     "React Hooks/☰ React Hooks.md",
     "React Hooks/7.2 Revisao - Revise os conceitos e resolva duvidas.md",
-    "React Jest/7.1 Projeto Final - Crie um pequeno projeto para aplicar o que aprendeu.md",
-    "React Jest/6.3 Exemplos Praticos - Criacao de testes de integracao para componentes React.md",
-    "React Jest/6.2 Configuracao de Testes - Configuracao de ambiente para testes de integracao.md",
-    "React Jest/6.1 Testes de Integracao - Como realizar testes de integracao com Jest.md",
-    "React Jest/5.3 Melhoria de Cobertura - Tecnicas para melhorar a cobertura de codigo.md",
-    "React Jest/5.2 Relatorios de Cobertura - Geracao de relatorios de cobertura.md",
-    "React Jest/5.1 Cobertura de Codigo - Uso de ferramentas para medir a cobertura de codigo.md",
-    "React Jest/4.3 Timers - Testando codigo que usa timers.md",
-    "React Jest/4.2 Promises e Async-Await - Testando codigo que usa Promises e async-await.md",
-    "React Jest/4.1 Testes Assincronos - Como lidar com testes assincronos.md",
-    "React Jest/3.3 Mock Functions - Criacao e uso de funcoes mock.md",
-    "React Jest/3.2 Simulacoes - Simulacao de funcoes e modulos.md",
-    "React Jest/3.1 Mocking - Uso de mocks para simular dependencias.md",
-    "React Jest/2.3 Renderizacao - Teste de renderizacao de componentes.md",
-    "React Jest/2.2 React Testing Library - Introducao ao React Testing Library para facilitar os testes.md",
-    "React Jest/2.1 Testando Componentes - Como testar componentes React com Jest.md",
-    "React Jest/1.3 Primeiro Teste - Crie um teste básico para entender como o Jest funciona.md",
-    "React Jest/1.2 Instalacao e Configuracao - Instale o Jest e configure seu ambiente de desenvolvimento.md",
-    "React Jest/1.1 Introducao ao Jest - O que e e por que usar.md",
-    "React Jest/☰ React Jest.md",
-    "GraphQL/9.2 Revisao - Revise os conceitos e resolva duvidas.md",
-    "React Hooks/7.1 Projeto Final - Crie um pequeno projeto para aplicar o que aprendeu.md",
-    "React Hooks/6.3 Boas Praticas - Melhores praticas para escrever hooks eficientes e legieis.md",
     "Tailwind CSS",
     "GraphQL"
   ]
