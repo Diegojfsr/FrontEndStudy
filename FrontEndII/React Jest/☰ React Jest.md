@@ -39,6 +39,6 @@
 
 ## **7️⃣ Projeto Prático**
 
-[[7.1 Projeto Final - Crie um pequeno projeto para aplicar o que aprendeu]]
-[[7.2 Revisao - Revise os conceitos e resolva duvidas]]
+[[React Jest/7.1 Projeto Final - Crie um pequeno projeto para aplicar o que aprendeu]]
+[[React Jest/7.2 Revisao - Revise os conceitos e resolva duvidas]]
 

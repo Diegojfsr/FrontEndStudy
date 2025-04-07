@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React Redux/☰ React Redux.md",
+                "file": "React Webpack/☰ React Webpack.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "☰ React Redux"
+              "title": "☰ React Webpack"
             }
           }
         ]
@@ -94,13 +94,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React Redux/☰ React Redux.md",
+                "file": "React Webpack/☰ React Webpack.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de ☰ React Redux"
+              "title": "Sumário de ☰ React Webpack"
             }
           },
           {
@@ -168,32 +168,32 @@
   },
   "active": "7bda43f8adbf6d89",
   "lastOpenFiles": [
-    "React Redux/7.2 Revisao - Revise os conceitos e resolva duvidas.md",
-    "React Jest/7.2 Revisao - Revise os conceitos e resolva duvidas.md",
-    "React Redux/7.1 Projeto Final - Crie um pequeno projeto para aplicar o que aprendeu.md",
-    "React Redux/☰ React Redux.md",
-    "React Redux/6.3 Redux Toolkit - Introducao ao Redux Toolkit para simplificar o desenvolvimento.md",
-    "React Redux/6.2  Normalizacao de Dados - Tecnicas para normalizar o estado.md",
-    "React Redux/6.1 Selectors - Criacao e uso de selectors para acessar o estado.md",
-    "React Redux/5.3 Boas Praticas - Melhores praticas para escrever codigo Redux.md",
-    "React Redux/5.2 Modularizacao - Divisao do codigo em modulos reutilizaveis.md",
-    "React Redux/5.1  Estrutura de Pastas - Organizacao de arquivos e pastas em um projeto Redux.md",
-    "React Redux/4.3 Logger Middleware - Implementacao de um middleware de logger.md",
-    "React Redux/4.2 Ferramentas de Desenvolvimento - Uso do Redux DevTools para depuracao.md",
-    "React Redux/4.1 Middleware - Introducao aos middlewares e uso do redux-thunk.md",
-    "React Redux/3.3  Hooks de Roteamento - Uso de hooks como useParams e useRouteMatch.md",
-    "React Redux/3.2 Parametros de Rota - Trabalhando com parametros de rota.md",
-    "React Redux/3.1 Rotas Aninhadas - Criacao de rotas aninhadas.md",
-    "React Redux/2.3  Fluxo de Dados - Entenda o fluxo de dados unidirecional no Redux.md",
-    "React Redux/2.2 Redutores - Definicao de redutores e como eles manipulam o estado.md",
-    "React Redux/2.1 Acoes - Criacao e uso de acoes.md",
-    "React Redux/1.3 Primeiro Store - Crie um store basico e entenda como funciona.md",
-    "React Redux/1.2 Instalacao e Configuracao - Instale o Redux e configure seu ambiente de desenvolvimento.md",
-    "React Redux/1.1 Introducao ao Redux - O que e e por que usar.md",
+    "React Webpack/7.2 Revisao - Revise os conceitos e resolva duvidas.md",
+    "React Router/7.2 Revisao - Revise os conceitos e resolva duvidas.md",
+    "React Webpack/7.1 Projeto Final - Crie um pequeno projeto para aplicar o que aprendeu.md",
+    "React Webpack/6.3 React Hot Loader - Implementacao do React Hot Loader para desenvolvimento.md",
+    "React Webpack/6.2 Babel - Uso do Babel com Webpack para transpilar codigo React.md",
+    "React Webpack/6.1 Configuracao para React - Configuracao do Webpack para projetos React.md",
+    "React Webpack/5.3 Caching - Tecnicas de caching para otimizar o carregamento.md",
+    "React Webpack/5.2 Code Splitting - Implementacao de code splitting para melhorar a performance.md",
+    "React Webpack/5.1 Minificacao - Uso de plugins para minificacao de codigo.md",
+    "React Webpack/4.3 Source Maps - Configuracao de source maps para debugging.md",
+    "React Webpack/4.2 Hot Module Replacement (HMR) - Implementacao de HMR para desenvolvimento mais rapido.md",
+    "React Webpack/4.1 Webpack Dev Server - Configuracao e uso do Webpack Dev Server.md",
+    "React Webpack/3.3 Configuracao de Plugins - Como configurar e usar plugins no Webpack.md",
+    "React Webpack/3.2 Plugins Essenciais - Uso de plugins como HtmlWebpackPlugin, CleanWebpackPlugin.md",
+    "React Webpack/3.1 Plugins - Introducao aos plugins do Webpack.md",
+    "React Webpack/2.3 Configuracao de Loaders - Configuracao de loaders para JavaScript, CSS e imagens.md",
+    "React Webpack/2.2 Loaders - Uso de loaders para transformar arquivos.md",
+    "React Webpack/2.1 Modulos - Entenda o sistema de modulos do Webpack.md",
+    "React Webpack/1.3 Primeiro Bundle - Crie um bundle basico para entender como o Webpack funciona.md",
+    "React Webpack/1.2 Instalacao e Configuracao - Instale o Webpack e configure seu ambiente de desenvolvimento.md",
+    "React Webpack/1.1 Introducao ao Webpack - O que e e por que usar.md",
+    "React Webpack/☰ React Webpack.md",
     "React Router/1.1 Introducao ao React Router - O que e e por que usar.md",
-    "React Jest/☰ React Jest.md",
-    "React Hooks/☰ React Hooks.md",
-    "React Hooks/7.2 Revisao - Revise os conceitos e resolva duvidas.md",
+    "React Router/1️⃣ Fundamentos do React Router.md",
+    "React Redux/☰ React Redux.md",
+    "React Redux/7.2 Revisao - Revise os conceitos e resolva duvidas.md",
     "Tailwind CSS",
     "GraphQL"
   ]

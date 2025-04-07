@@ -1,43 +1,43 @@
 
 
-###  **1️⃣ Fundamentos do Webpack
+###  **1️ Fundamentos do Webpack
 
- Introdução ao Webpack: O que é e por que usar.
- Instalação e Configuração: Instale o Webpack e configure seu ambiente de desenvolvimento.
- Primeiro Bundle: Crie um bundle básico para entender como o Webpack funciona.
+[[1.1 Introducao ao Webpack - O que e e por que usar]]
+[[1.2 Instalacao e Configuracao - Instale o Webpack e configure seu ambiente de desenvolvimento]]
+[[1.3 Primeiro Bundle - Crie um bundle basico para entender como o Webpack funciona]]
 
-### **2️⃣  Módulos e Loaders
+### **2️  Módulos e Loaders
 
- Módulos: Entenda o sistema de módulos do Webpack.
- Loaders: Uso de loaders para transformar arquivos.
- Configuração de Loaders: Configuração de loaders para JavaScript, CSS e imagens.
+[[2.1 Modulos - Entenda o sistema de modulos do Webpack]]
+[[2.2 Loaders - Uso de loaders para transformar arquivos]]
+[[2.3 Configuracao de Loaders - Configuracao de loaders para JavaScript, CSS e imagens]]
 
-###  **3️⃣ Plugins
+###  **3️ Plugins
 
- Plugins: Introdução aos plugins do Webpack.
- Plugins Essenciais: Uso de plugins como HtmlWebpackPlugin, CleanWebpackPlugin, etc.
- Configuração de Plugins: Como configurar e usar plugins no Webpack.
+[[3.1 Plugins - Introducao aos plugins do Webpack]]
+[[3.2 Plugins Essenciais - Uso de plugins como HtmlWebpackPlugin, CleanWebpackPlugin]]
+[[3.3 Configuracao de Plugins - Como configurar e usar plugins no Webpack]]
 
-### **4️⃣ Desenvolvimento com Webpack
+### **4️ Desenvolvimento com Webpack
 
- Webpack Dev Server: Configuração e uso do Webpack Dev Server.
- Hot Module Replacement (HMR): Implementação de HMR para desenvolvimento mais rápido.
- Source Maps: Configuração de source maps para debugging.
+[[4.1 Webpack Dev Server - Configuracao e uso do Webpack Dev Server]]
+[[4.2 Hot Module Replacement (HMR) - Implementacao de HMR para desenvolvimento mais rapido]]
+[[4.3 Source Maps - Configuracao de source maps para debugging]]
 
-### **5️⃣ Otimização e Performance
+### **5️ Otimização e Performance
 
- Minificação: Uso de plugins para minificação de código.
- Code Splitting: Implementação de code splitting para melhorar a performance.
- Caching: Técnicas de caching para otimizar o carregamento.
+[[5.1 Minificacao - Uso de plugins para minificacao de codigo]]
+[[5.2 Code Splitting - Implementacao de code splitting para melhorar a performance]]
+[[5.3 Caching - Tecnicas de caching para otimizar o carregamento]]
 
-### **6️⃣ Integração com React
+### **6️ Integração com React
 
- Configuração para React: Configuração do Webpack para projetos React.
- Babel: Uso do Babel com Webpack para transpilar código React.
- React Hot Loader: Implementação do React Hot Loader para desenvolvimento.
+[[6.1 Configuracao para React - Configuracao do Webpack para projetos React]]
+[[6.2 Babel - Uso do Babel com Webpack para transpilar codigo React]]
+[[6.3 React Hot Loader - Implementacao do React Hot Loader para desenvolvimento]]
 
-### **7️⃣ Projeto Prático
+### **7️ Projeto Prático
 
- Projeto Final: Crie um pequeno projeto para aplicar o que aprendeu.
- Revisão: Revise os conceitos e resolva dúvidas.
+[[7.1 Projeto Final - Crie um pequeno projeto para aplicar o que aprendeu]]
+[[7.2 Revisao - Revise os conceitos e resolva duvidas]]
 
