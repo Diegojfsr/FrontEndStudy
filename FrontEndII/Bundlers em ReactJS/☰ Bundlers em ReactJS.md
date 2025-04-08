@@ -1,68 +1,52 @@
 
 ### **1. Fundamentos de Bundlers**
 
-Entenda o que são bundlers e por que eles são úteis no desenvolvimento web.
-Estude conceitos básicos de bundlers, como:
-**Empacotamento de arquivos**.
-**Minificação** e otimização.
-**Modularização** com `import`/`export` no JavaScript moderno.
-Descubra como os bundlers funcionam em projetos React, especialmente na preparação para ambiente de produção.
+[[1.1 O que sao bundlers e por que eles sao uteis no desenvolvimento web]]
+[[1.2 Conceitos basicos de bundlers]]
+[[1.3 Empacotamento de arquivos]]
+[[1.4 Minificacao e otimizacao]]
+[[1.5 Modularizacao com import-export no JavaScript moderno]]
+[[1.6 Descubra como os bundlers funcionam em projetos React, especialmente na preparacao para ambiente de producao]]
 
 ### **2. Ferramentas de Bundlers para React**
 
-**Webpack**:
-Aprenda o básico sobre configuração do `webpack.config.js`.
-Pratique criar um projeto React do zero com Webpack.
-**Vite**:
-Entenda como configurar um projeto React com Vite.
-Explore a rapidez de Vite em desenvolvimento.
-**Parcel**:
-Configure um projeto React básico com Parcel.
-Veja como ele simplifica o bundling com configurações mínimas.
+[[2.1 Webpack - O basico sobre configuracao do webpack.config.js]]
+[[2.2 Como criar um projeto React do zero com Webpack]]
+[[2.3 Vite - Entenda como configurar um projeto React com Vite]]
+[[2.4 Como criar um projeto React do zero com Vite]]
+[[2.5 Parcel - Configure um projeto React basico com Parcel]]
+[[2.6 Como o percel simplifica o bundling com configuracoes minimas]]
 
 ### **3. Integrando Bundlers com React**
 
-Aprenda a configurar o bundler para lidar com:
-Arquivos .jsx e .tsx (React e TypeScript).
-Estilos CSS/SASS.
-Assets estáticos (imagens, fontes).
-Explore como usar **Babel** para transpilar código JavaScript moderno.
+[[3.1 Como configurar o bundler]]
+[[3.2 Arquivos .jsx e .tsx (React e TypeScript)]]
+[[3.3 Estilos CSS-SASS]]
+[[3.4 Assets estaticos (imagens, fontes)]]
+[[3.5 Como usar Babel para transpilar codigo JavaScript moderno]]
 
 ### **4. Plugins e Loaders**
 
-Entenda o papel dos **loaders** no Webpack para processar arquivos (ex.: `css-loader`, `babel-loader`).
-Explore **plugins** como:
-**HtmlWebpackPlugin**: Gera arquivos HTML para aplicações React.
-**MiniCssExtractPlugin**: Para separar CSS em arquivos próprios.
+[[4.1 Qual o papel dos loaders no Webpack para processar arquivos (css-loader, babel-loader)]]
+[[4.2 HtmlWebpackPlugin - Gera arquivos HTML para aplicacoes React]]
+[[4.3 MiniCssExtractPlugin - Para separar CSS em arquivos proprios]]
 
 ### **5. Otimização para Produção**
 
-Configure bundlers para produção em React:
-Ative minificação e remoção de código morto (tree-shaking).
-Implemente **code splitting** para carregar arquivos sob demanda.
-Estude como reduzir o tamanho dos pacotes com ferramentas como `webpack-bundle-analyzer`.
+[[5.1 Como configurar bundlers para producao em React]]
+[[5.2 Ative minificacao e remocao de codigo morto (tree-shaking)]]
+[[5.3 Code splitting para carregar arquivos sob demanda]]
+[[5.4 Como reduzir o tamanho dos pacotes com ferramentas como webpack-bundle-analyzer]]
 
 ### **6. Integração com Frameworks e Ferramentas**
 
-Aprenda como integrar bundlers com **React Router** para lidar com aplicações SPA.
-Configure **dotenv** para gerenciar variáveis de ambiente.
+[[6.1 Como integrar bundlers com React Router para lidar com aplicacoes SPA]]
+[[6.2 Como configurar o dotenv para gerenciar variaveis de ambiente]]
 
 ### **7. Projeto Prático**
 
-Crie um projeto React do zero:
-Configure o bundler escolhido (Webpack, Vite ou Parcel).
-Adicione rotas, estilos e interação com APIs externas.
-Implemente otimizações para produção e compare os resultados.
-
-### **8. Aprendizado Contínuo**
-
-Leia a documentação oficial:
-Webpack
-Vite
-Parcel
-Participe de comunidades React e troque experiências sobre bundlers.
-Acompanhe novas tecnologias no ecossistema de desenvolvimento web.
-
+[[7.1 Crie um projeto React do zero utilizando (Webpack, Vite ou Parcel)]]
+[[7.2 Revisao - Revise os conceitos de Bundlers]]
 
 
 

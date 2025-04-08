@@ -50,6 +50,6 @@
 ### **Projeto Prático**
 
 [[9.1 Projeto Final - Crie um pequeno projeto para aplicar o que aprendeu]]
-[[9.2 Revisao - Revise os conceitos e resolva duvidas]]
+[[GraphQL/9.2 Revisao - Revise os conceitos e resolva duvidas]]
 
 

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "⚛️ ReactJs/7.2 Revisao - Revise os principais conceitos e esclareca duvidas.md",
+                "file": "🟨 JavaScript/☰ JavaScript.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7.2 Revisao - Revise os principais conceitos e esclareca duvidas"
+              "title": "☰ JavaScript"
             }
           }
         ]
@@ -94,13 +94,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "⚛️ ReactJs/7.2 Revisao - Revise os principais conceitos e esclareca duvidas.md",
+                "file": "🟨 JavaScript/☰ JavaScript.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de 7.2 Revisao - Revise os principais conceitos e esclareca duvidas"
+              "title": "Sumário de ☰ JavaScript"
             }
           },
           {
@@ -168,6 +168,9 @@
   },
   "active": "8e1775a2171f9e51",
   "lastOpenFiles": [
+    "🌐 NextJs/☰ NextJs.md",
+    "🌐 NextJs/1.1 Introducao ao Nextjs - O que e e por que usar.md",
+    "⚛️ ReactJs/7.2 Revisao - Revise os principais conceitos e esclareca duvidas.md",
     "⚛️ ReactJs/☰ ReactJs.md",
     "🟨 JavaScript/7.4 Revisao - Revise os conceitos e resolva duvidas.md",
     "🟨 JavaScript/☰ JavaScript.md",
@@ -190,9 +193,6 @@
     "🟨 JavaScript/4.1 Callbacks - Conceito e uso.md",
     "🟨 JavaScript/3.3 Manipulacao de Objetos e Arrays - Iteracao e transformacao.md",
     "🟨 JavaScript/3.2 Arrays - Criacao, metodos de array (push, pop, map, filter, reduce).md",
-    "🟨 JavaScript/3.1 Objetos - Criacao, propriedades, metodos.md",
-    "🟨 JavaScript/2.3 Closures - Conceito e exemplos praticos.md",
-    "🟨 JavaScript/2.2 Escopo - Global, local, escopo de bloco, hoisting.md",
-    "🟨 JavaScript/2.1 Funcoes - Declaracao, expressao, arrow functions.md"
+    "🟨 JavaScript/3.1 Objetos - Criacao, propriedades, metodos.md"
   ]
 }
