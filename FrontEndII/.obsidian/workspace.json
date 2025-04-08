@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "API REST/1.1 Entenda o que e uma API REST.md",
+                "file": "Bundlers em ReactJS/☰ Bundlers em ReactJS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.1 Entenda o que e uma API REST"
+              "title": "☰ Bundlers em ReactJS"
             }
           }
         ]
@@ -94,13 +94,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "API REST/1.1 Entenda o que e uma API REST.md",
+                "file": "Bundlers em ReactJS/☰ Bundlers em ReactJS.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de 1.1 Entenda o que e uma API REST"
+              "title": "Sumário de ☰ Bundlers em ReactJS"
             }
           },
           {
@@ -168,32 +168,32 @@
   },
   "active": "57a8bc7637cd9b7d",
   "lastOpenFiles": [
-    "GraphQL/10.2 Perguntas para aplicacao pratica e estudo tecnico em GraphQL.md",
-    "GraphQL/☰ GraphQL.md",
-    "GraphQL/10.1 Revisao - Revise os conceitos de GraphQL.md",
-    "Contex API/☰ Contex API.md",
-    "Contex API/8.2 Perguntas para aplicação pratica e estudo tecnico em Contex Api.md",
-    "Contex API/8.1 Revisao - Revise os conceitos de Contex api.md",
-    "Bundlers em ReactJS/☰ Bundlers em ReactJS.md",
+    "Bundlers em ReactJS/8.2 Perguntas para aplicacao pratica e estudo tecnico em Bundlers.md",
     "Bundlers em ReactJS/8.1 Revisao - Revise os conceitos de Bundlers.md",
-    "API REST/☰ API REST.md",
-    "API REST/10.2 Perguntas para aplicação pratica e estudo tecnico em Api Rest.md",
-    "API REST/10.1 Revisao - Revise os conceitos de Api Rest.md",
-    "Testes em ReactJS/☰ Testes em ReactJS.md",
-    "Testes em ReactJS/9.1 Revisao - Revise os conceitos de teste.md",
-    "Testes em ReactJS/9.2 Perguntas para aplicacao pratica e estudo tecnico em testes.md",
-    "Tailwind CSS/☰ Tailwind CSS.md",
-    "Tailwind CSS/9.2 Perguntas para aplicacao pratica e estudo tecnico em Bundlers.md",
-    "Tailwind CSS/9.1 Revisao - Revise os conceitos de Tailwind CSS.md",
-    "Tailwind CSS/8.1 Projeto Final - Crie um pequeno projeto para aplicar o que aprendeu em Tailwind CSS.md",
-    "Styled Components/☰ Styled Components.md",
-    "Styled Components/8.2 Perguntas para aplicacao pratica e estudo tecnico em Styled Components.md",
-    "Styled Components/8.1 Revisao - Revise os conceitos de Styled Components.md",
-    "Styled Components/7.1 Projeto Final - Crie um pequeno projeto para aplicar o que aprendeu em Styled Components.md",
-    "React Webpack/8.2 Perguntas para aplicacao pratica e estudo tecnico em Webpack.md",
-    "React Webpack/☰ React Webpack.md",
-    "React Webpack/8.1 Revisao - Revise os conceitos de Webpack.md",
-    "React Webpack/7.1 Projeto Final - Crie um pequeno projeto para aplicar o que aprendeu em Webpack.md",
+    "Bundlers em ReactJS/7.1 Crie um projeto React do zero utilizando (Webpack, Vite ou Parcel).md",
+    "Bundlers em ReactJS/6.2 Como configurar o dotenv para gerenciar variaveis de ambiente.md",
+    "Bundlers em ReactJS/6.1 Como integrar bundlers com React Router para lidar com aplicacoes SPA.md",
+    "Bundlers em ReactJS/5.4 Como reduzir o tamanho dos pacotes com ferramentas como webpack-bundle-analyzer.md",
+    "Bundlers em ReactJS/5.3 Code splitting para carregar arquivos sob demanda.md",
+    "Bundlers em ReactJS/5.2 Ative minificacao e remocao de codigo morto (tree-shaking).md",
+    "Bundlers em ReactJS/5.1 Como configurar bundlers para producao em React.md",
+    "Bundlers em ReactJS/4.3 MiniCssExtractPlugin - Para separar CSS em arquivos proprios.md",
+    "Bundlers em ReactJS/4.2 HtmlWebpackPlugin - Gera arquivos HTML para aplicacoes React.md",
+    "Bundlers em ReactJS/4.1 Qual o papel dos loaders no Webpack para processar arquivos (css-loader, babel-loader).md",
+    "Bundlers em ReactJS/3.5 Como usar Babel para transpilar codigo JavaScript moderno.md",
+    "Bundlers em ReactJS/3.4 Assets estaticos (imagens, fontes).md",
+    "Bundlers em ReactJS/3.3 Estilos CSS-SASS.md",
+    "Bundlers em ReactJS/3.2 Arquivos .jsx e .tsx (React e TypeScript).md",
+    "Bundlers em ReactJS/3.1 Como configurar o bundler.md",
+    "Bundlers em ReactJS/2.6 Como o percel simplifica o bundling com configuracoes minimas.md",
+    "Bundlers em ReactJS/2.5 Parcel - Configure um projeto React basico com Parcel.md",
+    "Bundlers em ReactJS/2.4 Como criar um projeto React do zero com Vite.md",
+    "Bundlers em ReactJS/2.3 Vite - Entenda como configurar um projeto React com Vite.md",
+    "Bundlers em ReactJS/2.2 Como criar um projeto React do zero com Webpack.md",
+    "Bundlers em ReactJS/2.1 Webpack - O basico sobre configuracao do webpack.config.js.md",
+    "Bundlers em ReactJS/1.6 Descubra como os bundlers funcionam em projetos React, especialmente na preparacao para ambiente de producao.md",
+    "Bundlers em ReactJS/1.5 Modularizacao com import-export no JavaScript moderno.md",
+    "Bundlers em ReactJS/1.4 Minificacao e otimizacao.md",
     "Bundlers em ReactJS",
     "Testes em ReactJS",
     "API REST",
