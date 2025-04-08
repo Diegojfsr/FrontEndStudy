@@ -78,6 +78,12 @@
       "isBold": true,
       "applyToSubfolders": true,
       "applyToFiles": true
+    },
+    "API REST": {
+      "isBold": true,
+      "applyToSubfolders": true,
+      "applyToFiles": true,
+      "textColor": "#8fd4ff"
     }
   },
   "presets": {},

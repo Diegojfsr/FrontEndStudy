@@ -38,6 +38,12 @@
 
 ### **7️ Projeto Prático
 
-[[React Webpack/7.1 Projeto Final - Crie um pequeno projeto para aplicar o que aprendeu]]
-[[React Webpack/7.2 Revisao - Revise os conceitos e resolva duvidas]]
+[[7.1 Projeto Final - Crie um pequeno projeto para aplicar o que aprendeu em Webpack]]
+
+### **8. Revisão**
+
+[[8.1 Revisao - Revise os conceitos de Webpack]]
+[[8.2 Perguntas para aplicacao pratica e estudo tecnico em Webpack]]
+
+
 

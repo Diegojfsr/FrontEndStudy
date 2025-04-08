@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "24249e4e036eec5e",
+            "id": "57a8bc7637cd9b7d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "API REST/☰ API REST.md",
+                "file": "API REST/1.1 Entenda o que e uma API REST.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "☰ API REST"
+              "title": "1.1 Entenda o que e uma API REST"
             }
           }
         ]
@@ -41,7 +41,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Explorador de arquivos"
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 234.5
   },
   "right": {
     "id": "1b77f82fc4207f64",
@@ -94,13 +94,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "API REST/☰ API REST.md",
+                "file": "API REST/1.1 Entenda o que e uma API REST.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de ☰ API REST"
+              "title": "Sumário de 1.1 Entenda o que e uma API REST"
             }
           },
           {
@@ -166,34 +166,34 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "24249e4e036eec5e",
+  "active": "57a8bc7637cd9b7d",
   "lastOpenFiles": [
-    "API REST/10.2 Perguntas para aplicação pratica e estudo tecnico em Api Rest.md",
-    "API REST/10.1 Revisao - Revise os conceitos e resolva duvidas.md",
-    "API REST/10.1 Revisao - Revise os conceitos de Api Rest.md",
-    "API REST/☰ API REST.md",
-    "React Hooks/7.2 Revisao - Revise os conceitos e resolva duvidas.md",
-    "React Hooks/☰ React Hooks.md",
-    "Contex API/7.2 Revisao - Revise os conceitos e resolva duvidas.md",
-    "Testes em ReactJS/8.2 Revisao - Revise os conceitos de teste.md",
-    "Bundlers em ReactJS/7.2 Revisao - Revise os conceitos de Bundlers.md",
-    "Bundlers em ReactJS/3.3 Estilos CSS-SASS.md",
-    "Bundlers em ReactJS/2.2 Como criar um projeto React do zero com Webpack.md",
+    "GraphQL/10.2 Perguntas para aplicacao pratica e estudo tecnico em GraphQL.md",
+    "GraphQL/☰ GraphQL.md",
+    "GraphQL/10.1 Revisao - Revise os conceitos de GraphQL.md",
+    "Contex API/☰ Contex API.md",
+    "Contex API/8.2 Perguntas para aplicação pratica e estudo tecnico em Contex Api.md",
+    "Contex API/8.1 Revisao - Revise os conceitos de Contex api.md",
     "Bundlers em ReactJS/☰ Bundlers em ReactJS.md",
-    "API REST/1.3 O que sao Formatos JSON.md",
-    "API REST/1.2 Recursos, metodos HTTP (GET, POST, PUT, DELETE).md",
-    "API REST/1.1 Entenda o que e uma API REST.md",
-    "Bundlers em ReactJS/1.3 Empacotamento de arquivos.md",
-    "Bundlers em ReactJS/1.2 Conceitos basicos de bundlers.md",
-    "Bundlers em ReactJS/1.1 O que sao bundlers e por que eles sao uteis no desenvolvimento web.md",
-    "API REST/9.1 Desenvolva uma aplicacao React consumindo uma API REST(Gerenciador de tarefas CRUD).md",
-    "API REST/8.3 Use variaveis de ambiente .env para armazenar URLs de APIs e chaves sensiveis.md",
-    "API REST/8.2 Implemente loaders (animacoes de carregando) enquanto os dados estão sendo buscados.md",
-    "API REST/8.1 Lide com erros e exiba mensagens amigaveis para o usuario.md",
-    "API REST/7.2 Simule respostas de APIs com mocks para garantir que os testes sejam independentes.md",
-    "API REST/7.1 Como escrever testes para componentes que consomem APIs usando Jest e React Testing Library.md",
-    "API REST/6.2 Como organizar projetos React em pastas para maior escalabilidade.md",
-    "API REST/6.1 Crie componentes reutilizaveis para consumo de APIs (uma tabela generica para exibir dados).md",
+    "Bundlers em ReactJS/8.1 Revisao - Revise os conceitos de Bundlers.md",
+    "API REST/☰ API REST.md",
+    "API REST/10.2 Perguntas para aplicação pratica e estudo tecnico em Api Rest.md",
+    "API REST/10.1 Revisao - Revise os conceitos de Api Rest.md",
+    "Testes em ReactJS/☰ Testes em ReactJS.md",
+    "Testes em ReactJS/9.1 Revisao - Revise os conceitos de teste.md",
+    "Testes em ReactJS/9.2 Perguntas para aplicacao pratica e estudo tecnico em testes.md",
+    "Tailwind CSS/☰ Tailwind CSS.md",
+    "Tailwind CSS/9.2 Perguntas para aplicacao pratica e estudo tecnico em Bundlers.md",
+    "Tailwind CSS/9.1 Revisao - Revise os conceitos de Tailwind CSS.md",
+    "Tailwind CSS/8.1 Projeto Final - Crie um pequeno projeto para aplicar o que aprendeu em Tailwind CSS.md",
+    "Styled Components/☰ Styled Components.md",
+    "Styled Components/8.2 Perguntas para aplicacao pratica e estudo tecnico em Styled Components.md",
+    "Styled Components/8.1 Revisao - Revise os conceitos de Styled Components.md",
+    "Styled Components/7.1 Projeto Final - Crie um pequeno projeto para aplicar o que aprendeu em Styled Components.md",
+    "React Webpack/8.2 Perguntas para aplicacao pratica e estudo tecnico em Webpack.md",
+    "React Webpack/☰ React Webpack.md",
+    "React Webpack/8.1 Revisao - Revise os conceitos de Webpack.md",
+    "React Webpack/7.1 Projeto Final - Crie um pequeno projeto para aplicar o que aprendeu em Webpack.md",
     "Bundlers em ReactJS",
     "Testes em ReactJS",
     "API REST",

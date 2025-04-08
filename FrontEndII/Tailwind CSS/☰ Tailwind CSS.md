@@ -39,8 +39,14 @@
 
 ### **8 Projeto Prático
 
-[[8.1 Projeto Final - Crie um pequeno projeto para aplicar o que aprendeu]]
-[[8.2 Revisao - Revise os conceitos e resolva duvidas]]
+[[8.1 Projeto Final - Crie um pequeno projeto para aplicar o que aprendeu em Tailwind CSS]]
+
+
+### **9 Revisão**
+
+[[9.1 Revisao - Revise os conceitos de Tailwind CSS]]
+[[9.2 Perguntas para aplicacao pratica e estudo tecnico em Bundlers]]
+
 
 
 

@@ -47,9 +47,11 @@
 [[8.2 Trabalhe com subscriptions para aplicações em tempo real]]
 
 
-### **Projeto Prático**
+### **9 Projeto Prático**
 
-[[9.1 Projeto Final - Crie um pequeno projeto para aplicar o que aprendeu]]
-[[GraphQL/9.2 Revisao - Revise os conceitos e resolva duvidas]]
+[[9.1 Projeto Final - Crie um pequeno projeto para aplicar o que aprendeu de GraphQL]]
 
+### **10. Revisão**
 
+[[10.1 Revisao - Revise os conceitos de GraphQL]]
+[[10.2 Perguntas para aplicacao pratica e estudo tecnico em GraphQL]]

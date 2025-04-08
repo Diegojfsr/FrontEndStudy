@@ -37,10 +37,10 @@
 
 ### **7️ Projeto Prático
 
-[[7.1 Projeto Final - Crie um pequeno projeto para aplicar o que aprendeu]]
-[[7.2 Revisao - Revise os conceitos e resolva duvidas]]
+[[7.1 Projeto Final - Crie um pequeno projeto para aplicar o que aprendeu em Styled Components]]
 
 
+### **8. Revisão**
 
-
-
+[[8.1 Revisao - Revise os conceitos de Styled Components]]
+[[8.2 Perguntas para aplicacao pratica e estudo tecnico em Styled Components]]

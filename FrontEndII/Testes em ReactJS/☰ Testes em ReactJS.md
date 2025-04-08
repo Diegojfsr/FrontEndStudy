@@ -44,7 +44,11 @@
 ### **8. Projeto Prático**
 
 [[8.1 Projeto Final - Crie um projeto para aplicar o que aprendeu sobre testes]]
-[[8.2 Revisao - Revise os conceitos de teste]]
 
+
+### **9. Revisão**
+
+[[9.1 Revisao - Revise os conceitos de teste]]
+[[9.2 Perguntas para aplicacao pratica e estudo tecnico em testes]]
 
 

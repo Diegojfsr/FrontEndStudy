@@ -54,11 +54,8 @@
 
 [[9.1 Desenvolva uma aplicacao React consumindo uma API REST(Gerenciador de tarefas CRUD)]]
 
-
-
-
 ### **10. Revisão**
 
-[[10.1 Revisao - Revise os conceitos e resolva duvidas]]
-10.2 Perguntas para aplicação prática e estudo técnico
+[[10.1 Revisao - Revise os conceitos de Api Rest]]
+[[10.2 Perguntas para aplicação pratica e estudo tecnico em Api Rest]]
 
