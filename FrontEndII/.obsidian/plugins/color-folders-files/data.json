@@ -26,7 +26,7 @@
       "applyToFiles": true
     },
     "Contex API": {
-      "textColor": "#5754f2",
+      "textColor": "#7c79fb",
       "applyToSubfolders": true,
       "applyToFiles": true,
       "isBold": true
@@ -84,6 +84,13 @@
       "applyToSubfolders": true,
       "applyToFiles": true,
       "textColor": "#8fd4ff"
+    },
+    "Bundlers em ReactJS": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isItalic": false,
+      "isBold": true,
+      "textColor": "#68fd9c"
     }
   },
   "presets": {},
